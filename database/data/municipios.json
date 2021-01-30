@@ -1,0 +1,6722 @@
+[
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": "001",
+    "NomMunicipio": "MEDELLIN"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": "002",
+    "NomMunicipio": "ABEJORRAL"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": "004",
+    "NomMunicipio": "ABRIAQUI"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": "021",
+    "NomMunicipio": "ALEJANDRIA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": "030",
+    "NomMunicipio": "AMAGA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": "031",
+    "NomMunicipio": "AMALFI"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": "034",
+    "NomMunicipio": "ANDES"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": "036",
+    "NomMunicipio": "ANGELOPOLIS"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": "038",
+    "NomMunicipio": "ANGOSTURA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": "040",
+    "NomMunicipio": "ANORI"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": "042",
+    "NomMunicipio": "SANTAFE DE ANTIOQUIA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": "044",
+    "NomMunicipio": "ANZA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": "045",
+    "NomMunicipio": "APARTADO"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": "051",
+    "NomMunicipio": "ARBOLETES"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": "055",
+    "NomMunicipio": "ARGELIA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": "059",
+    "NomMunicipio": "ARMENIA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": "079",
+    "NomMunicipio": "BARBOSA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": "086",
+    "NomMunicipio": "BELMIRA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": "088",
+    "NomMunicipio": "BELLO"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": "091",
+    "NomMunicipio": "BETANIA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": "093",
+    "NomMunicipio": "BETULIA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 101,
+    "NomMunicipio": "CIUDAD BOLIVAR"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 107,
+    "NomMunicipio": "BRICEÑO"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 113,
+    "NomMunicipio": "BURITICA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 120,
+    "NomMunicipio": "CACERES"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 125,
+    "NomMunicipio": "CAICEDO"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 129,
+    "NomMunicipio": "CALDAS"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 134,
+    "NomMunicipio": "CAMPAMENTO"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 138,
+    "NomMunicipio": "CAÑASGORDAS"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 142,
+    "NomMunicipio": "CARACOLI"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 145,
+    "NomMunicipio": "CARAMANTA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 147,
+    "NomMunicipio": "CAREPA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 148,
+    "NomMunicipio": "EL CARMEN DE VIBORAL"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 150,
+    "NomMunicipio": "CAROLINA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 154,
+    "NomMunicipio": "CAUCASIA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 172,
+    "NomMunicipio": "CHIGORODO"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 190,
+    "NomMunicipio": "CISNEROS"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 197,
+    "NomMunicipio": "COCORNA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 206,
+    "NomMunicipio": "CONCEPCION"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 209,
+    "NomMunicipio": "CONCORDIA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 212,
+    "NomMunicipio": "COPACABANA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 234,
+    "NomMunicipio": "DABEIBA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 237,
+    "NomMunicipio": "DON MATIAS"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 240,
+    "NomMunicipio": "EBEJICO"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 250,
+    "NomMunicipio": "EL BAGRE"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 264,
+    "NomMunicipio": "ENTRERRIOS"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 266,
+    "NomMunicipio": "ENVIGADO"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 282,
+    "NomMunicipio": "FREDONIA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 284,
+    "NomMunicipio": "FRONTINO"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 306,
+    "NomMunicipio": "GIRALDO"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 308,
+    "NomMunicipio": "GIRARDOTA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 310,
+    "NomMunicipio": "GOMEZ PLATA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 313,
+    "NomMunicipio": "GRANADA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 315,
+    "NomMunicipio": "GUADALUPE"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 318,
+    "NomMunicipio": "GUARNE"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 321,
+    "NomMunicipio": "GUATAPE"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 347,
+    "NomMunicipio": "HELICONIA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 353,
+    "NomMunicipio": "HISPANIA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 360,
+    "NomMunicipio": "ITAGUI"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 361,
+    "NomMunicipio": "ITUANGO"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 364,
+    "NomMunicipio": "JARDIN"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 368,
+    "NomMunicipio": "JERICO"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 376,
+    "NomMunicipio": "LA CEJA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 380,
+    "NomMunicipio": "LA ESTRELLA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 390,
+    "NomMunicipio": "LA PINTADA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 400,
+    "NomMunicipio": "LA UNION"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 411,
+    "NomMunicipio": "LIBORINA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 425,
+    "NomMunicipio": "MACEO"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 440,
+    "NomMunicipio": "MARINILLA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 467,
+    "NomMunicipio": "MONTEBELLO"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 475,
+    "NomMunicipio": "MURINDO"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 480,
+    "NomMunicipio": "MUTATA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 483,
+    "NomMunicipio": "NARIÑO"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 490,
+    "NomMunicipio": "NECOCLI"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 495,
+    "NomMunicipio": "NECHI"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 501,
+    "NomMunicipio": "OLAYA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 541,
+    "NomMunicipio": "PEÐOL"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 543,
+    "NomMunicipio": "PEQUE"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 576,
+    "NomMunicipio": "PUEBLORRICO"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 579,
+    "NomMunicipio": "PUERTO BERRIO"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 585,
+    "NomMunicipio": "PUERTO NARE"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 591,
+    "NomMunicipio": "PUERTO TRIUNFO"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 604,
+    "NomMunicipio": "REMEDIOS"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 607,
+    "NomMunicipio": "RETIRO"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 615,
+    "NomMunicipio": "RIONEGRO"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 628,
+    "NomMunicipio": "SABANALARGA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 631,
+    "NomMunicipio": "SABANETA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 642,
+    "NomMunicipio": "SALGAR"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 647,
+    "NomMunicipio": "SAN ANDRES DE CUERQUIA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 649,
+    "NomMunicipio": "SAN CARLOS"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 652,
+    "NomMunicipio": "SAN FRANCISCO"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 656,
+    "NomMunicipio": "SAN JERONIMO"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 658,
+    "NomMunicipio": "SAN JOSE DE LA MONTAÑA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 659,
+    "NomMunicipio": "SAN JUAN DE URABA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 660,
+    "NomMunicipio": "SAN LUIS"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 664,
+    "NomMunicipio": "SAN PEDRO"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 665,
+    "NomMunicipio": "SAN PEDRO DE URABA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 667,
+    "NomMunicipio": "SAN RAFAEL"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 670,
+    "NomMunicipio": "SAN ROQUE"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 674,
+    "NomMunicipio": "SAN VICENTE"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 679,
+    "NomMunicipio": "SANTA BARBARA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 686,
+    "NomMunicipio": "SANTA ROSA DE OSOS"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 690,
+    "NomMunicipio": "SANTO DOMINGO"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 697,
+    "NomMunicipio": "EL SANTUARIO"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 736,
+    "NomMunicipio": "SEGOVIA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 756,
+    "NomMunicipio": "SONSON"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 761,
+    "NomMunicipio": "SOPETRAN"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 789,
+    "NomMunicipio": "TAMESIS"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 790,
+    "NomMunicipio": "TARAZA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 792,
+    "NomMunicipio": "TARSO"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 809,
+    "NomMunicipio": "TITIRIBI"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 819,
+    "NomMunicipio": "TOLEDO"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 837,
+    "NomMunicipio": "TURBO"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 842,
+    "NomMunicipio": "URAMITA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 847,
+    "NomMunicipio": "URRAO"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 854,
+    "NomMunicipio": "VALDIVIA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 856,
+    "NomMunicipio": "VALPARAISO"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 858,
+    "NomMunicipio": "VEGACHI"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 861,
+    "NomMunicipio": "VENECIA"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 873,
+    "NomMunicipio": "VIGIA DEL FUERTE"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 885,
+    "NomMunicipio": "YALI"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 887,
+    "NomMunicipio": "YARUMAL"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 890,
+    "NomMunicipio": "YOLOMBO"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 893,
+    "NomMunicipio": "YONDO"
+  },
+  {
+    "CodDepartamento": "005",
+    "NomDepartamento": "ANTIOQUIA",
+    "CodMunicipio": 895,
+    "NomMunicipio": "ZARAGOZA"
+  },
+  {
+    "CodDepartamento": "008",
+    "NomDepartamento": "ATLANTICO",
+    "CodMunicipio": "001",
+    "NomMunicipio": "BARRANQUILLA"
+  },
+  {
+    "CodDepartamento": "008",
+    "NomDepartamento": "ATLANTICO",
+    "CodMunicipio": "078",
+    "NomMunicipio": "BARANOA"
+  },
+  {
+    "CodDepartamento": "008",
+    "NomDepartamento": "ATLANTICO",
+    "CodMunicipio": 137,
+    "NomMunicipio": "CAMPO DE LA CRUZ"
+  },
+  {
+    "CodDepartamento": "008",
+    "NomDepartamento": "ATLANTICO",
+    "CodMunicipio": 141,
+    "NomMunicipio": "CANDELARIA"
+  },
+  {
+    "CodDepartamento": "008",
+    "NomDepartamento": "ATLANTICO",
+    "CodMunicipio": 296,
+    "NomMunicipio": "GALAPA"
+  },
+  {
+    "CodDepartamento": "008",
+    "NomDepartamento": "ATLANTICO",
+    "CodMunicipio": 372,
+    "NomMunicipio": "JUAN DE ACOSTA"
+  },
+  {
+    "CodDepartamento": "008",
+    "NomDepartamento": "ATLANTICO",
+    "CodMunicipio": 421,
+    "NomMunicipio": "LURUACO"
+  },
+  {
+    "CodDepartamento": "008",
+    "NomDepartamento": "ATLANTICO",
+    "CodMunicipio": 433,
+    "NomMunicipio": "MALAMBO"
+  },
+  {
+    "CodDepartamento": "008",
+    "NomDepartamento": "ATLANTICO",
+    "CodMunicipio": 436,
+    "NomMunicipio": "MANATI"
+  },
+  {
+    "CodDepartamento": "008",
+    "NomDepartamento": "ATLANTICO",
+    "CodMunicipio": 520,
+    "NomMunicipio": "PALMAR DE VARELA"
+  },
+  {
+    "CodDepartamento": "008",
+    "NomDepartamento": "ATLANTICO",
+    "CodMunicipio": 549,
+    "NomMunicipio": "PIOJO"
+  },
+  {
+    "CodDepartamento": "008",
+    "NomDepartamento": "ATLANTICO",
+    "CodMunicipio": 558,
+    "NomMunicipio": "POLONUEVO"
+  },
+  {
+    "CodDepartamento": "008",
+    "NomDepartamento": "ATLANTICO",
+    "CodMunicipio": 560,
+    "NomMunicipio": "PONEDERA"
+  },
+  {
+    "CodDepartamento": "008",
+    "NomDepartamento": "ATLANTICO",
+    "CodMunicipio": 573,
+    "NomMunicipio": "PUERTO COLOMBIA"
+  },
+  {
+    "CodDepartamento": "008",
+    "NomDepartamento": "ATLANTICO",
+    "CodMunicipio": 606,
+    "NomMunicipio": "REPELON"
+  },
+  {
+    "CodDepartamento": "008",
+    "NomDepartamento": "ATLANTICO",
+    "CodMunicipio": 634,
+    "NomMunicipio": "SABANAGRANDE"
+  },
+  {
+    "CodDepartamento": "008",
+    "NomDepartamento": "ATLANTICO",
+    "CodMunicipio": 638,
+    "NomMunicipio": "SABANALARGA"
+  },
+  {
+    "CodDepartamento": "008",
+    "NomDepartamento": "ATLANTICO",
+    "CodMunicipio": 675,
+    "NomMunicipio": "SANTA LUCIA"
+  },
+  {
+    "CodDepartamento": "008",
+    "NomDepartamento": "ATLANTICO",
+    "CodMunicipio": 685,
+    "NomMunicipio": "SANTO TOMAS"
+  },
+  {
+    "CodDepartamento": "008",
+    "NomDepartamento": "ATLANTICO",
+    "CodMunicipio": 758,
+    "NomMunicipio": "SOLEDAD"
+  },
+  {
+    "CodDepartamento": "008",
+    "NomDepartamento": "ATLANTICO",
+    "CodMunicipio": 770,
+    "NomMunicipio": "SUAN"
+  },
+  {
+    "CodDepartamento": "008",
+    "NomDepartamento": "ATLANTICO",
+    "CodMunicipio": 832,
+    "NomMunicipio": "TUBARA"
+  },
+  {
+    "CodDepartamento": "008",
+    "NomDepartamento": "ATLANTICO",
+    "CodMunicipio": 849,
+    "NomMunicipio": "USIACURI"
+  },
+  {
+    "CodDepartamento": "011",
+    "NomDepartamento": "BOGOTA",
+    "CodMunicipio": "001",
+    "NomMunicipio": "BOGOTA, D.C."
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": "001",
+    "NomMunicipio": "CARTAGENA"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": "006",
+    "NomMunicipio": "ACHI"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": "030",
+    "NomMunicipio": "ALTOS DEL ROSARIO"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": "042",
+    "NomMunicipio": "ARENAL"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": "052",
+    "NomMunicipio": "ARJONA"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": "062",
+    "NomMunicipio": "ARROYOHONDO"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": "074",
+    "NomMunicipio": "BARRANCO DE LOBA"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 140,
+    "NomMunicipio": "CALAMAR"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 160,
+    "NomMunicipio": "CANTAGALLO"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 188,
+    "NomMunicipio": "CICUCO"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 212,
+    "NomMunicipio": "CORDOBA"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 222,
+    "NomMunicipio": "CLEMENCIA"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 244,
+    "NomMunicipio": "EL CARMEN DE BOLIVAR"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 248,
+    "NomMunicipio": "EL GUAMO"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 268,
+    "NomMunicipio": "EL PEÑON"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 300,
+    "NomMunicipio": "HATILLO DE LOBA"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 430,
+    "NomMunicipio": "MAGANGUE"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 433,
+    "NomMunicipio": "MAHATES"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 440,
+    "NomMunicipio": "MARGARITA"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 442,
+    "NomMunicipio": "MARIA LA BAJA"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 458,
+    "NomMunicipio": "MONTECRISTO"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 468,
+    "NomMunicipio": "MOMPOS"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 490,
+    "NomMunicipio": "NOROSI"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 473,
+    "NomMunicipio": "MORALES"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 549,
+    "NomMunicipio": "PINILLOS"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 580,
+    "NomMunicipio": "REGIDOR"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 600,
+    "NomMunicipio": "RIO VIEJO"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 620,
+    "NomMunicipio": "SAN CRISTOBAL"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 647,
+    "NomMunicipio": "SAN ESTANISLAO"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 650,
+    "NomMunicipio": "SAN FERNANDO"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 654,
+    "NomMunicipio": "SAN JACINTO"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 655,
+    "NomMunicipio": "SAN JACINTO DEL CAUCA"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 657,
+    "NomMunicipio": "SAN JUAN NEPOMUCENO"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 667,
+    "NomMunicipio": "SAN MARTIN DE LOBA"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 670,
+    "NomMunicipio": "SAN PABLO"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 673,
+    "NomMunicipio": "SANTA CATALINA"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 683,
+    "NomMunicipio": "SANTA ROSA"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 688,
+    "NomMunicipio": "SANTA ROSA DEL SUR"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 744,
+    "NomMunicipio": "SIMITI"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 760,
+    "NomMunicipio": "SOPLAVIENTO"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 780,
+    "NomMunicipio": "TALAIGUA NUEVO"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 810,
+    "NomMunicipio": "TIQUISIO"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 836,
+    "NomMunicipio": "TURBACO"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 838,
+    "NomMunicipio": "TURBANA"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 873,
+    "NomMunicipio": "VILLANUEVA"
+  },
+  {
+    "CodDepartamento": "013",
+    "NomDepartamento": "BOLIVAR",
+    "CodMunicipio": 894,
+    "NomMunicipio": "ZAMBRANO"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": "001",
+    "NomMunicipio": "TUNJA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": "022",
+    "NomMunicipio": "ALMEIDA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": "047",
+    "NomMunicipio": "AQUITANIA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": "051",
+    "NomMunicipio": "ARCABUCO"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": "087",
+    "NomMunicipio": "BELEN"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": "090",
+    "NomMunicipio": "BERBEO"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": "092",
+    "NomMunicipio": "BETEITIVA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": "097",
+    "NomMunicipio": "BOAVITA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 104,
+    "NomMunicipio": "BOYACA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 106,
+    "NomMunicipio": "BRICEÑO"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 109,
+    "NomMunicipio": "BUENAVISTA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 114,
+    "NomMunicipio": "BUSBANZA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 131,
+    "NomMunicipio": "CALDAS"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 135,
+    "NomMunicipio": "CAMPOHERMOSO"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 162,
+    "NomMunicipio": "CERINZA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 172,
+    "NomMunicipio": "CHINAVITA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 176,
+    "NomMunicipio": "CHIQUINQUIRA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 180,
+    "NomMunicipio": "CHISCAS"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 183,
+    "NomMunicipio": "CHITA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 185,
+    "NomMunicipio": "CHITARAQUE"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 187,
+    "NomMunicipio": "CHIVATA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 189,
+    "NomMunicipio": "CIENEGA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 204,
+    "NomMunicipio": "COMBITA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 212,
+    "NomMunicipio": "COPER"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 215,
+    "NomMunicipio": "CORRALES"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 218,
+    "NomMunicipio": "COVARACHIA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 223,
+    "NomMunicipio": "CUBARA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 224,
+    "NomMunicipio": "CUCAITA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 226,
+    "NomMunicipio": "CUITIVA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 232,
+    "NomMunicipio": "CHIQUIZA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 236,
+    "NomMunicipio": "CHIVOR"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 238,
+    "NomMunicipio": "DUITAMA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 244,
+    "NomMunicipio": "EL COCUY"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 248,
+    "NomMunicipio": "EL ESPINO"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 272,
+    "NomMunicipio": "FIRAVITOBA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 276,
+    "NomMunicipio": "FLORESTA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 293,
+    "NomMunicipio": "GACHANTIVA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 296,
+    "NomMunicipio": "GAMEZA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 299,
+    "NomMunicipio": "GARAGOA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 317,
+    "NomMunicipio": "GUACAMAYAS"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 322,
+    "NomMunicipio": "GUATEQUE"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 325,
+    "NomMunicipio": "GUAYATA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 332,
+    "NomMunicipio": "GsICAN"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 362,
+    "NomMunicipio": "IZA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 367,
+    "NomMunicipio": "JENESANO"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 368,
+    "NomMunicipio": "JERICO"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 377,
+    "NomMunicipio": "LABRANZAGRANDE"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 380,
+    "NomMunicipio": "LA CAPILLA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 401,
+    "NomMunicipio": "LA VICTORIA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 403,
+    "NomMunicipio": "LA UVITA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 407,
+    "NomMunicipio": "VILLA DE LEYVA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 425,
+    "NomMunicipio": "MACANAL"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 442,
+    "NomMunicipio": "MARIPI"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 455,
+    "NomMunicipio": "MIRAFLORES"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 464,
+    "NomMunicipio": "MONGUA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 466,
+    "NomMunicipio": "MONGUI"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 469,
+    "NomMunicipio": "MONIQUIRA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 476,
+    "NomMunicipio": "MOTAVITA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 480,
+    "NomMunicipio": "MUZO"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 491,
+    "NomMunicipio": "NOBSA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 494,
+    "NomMunicipio": "NUEVO COLON"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 500,
+    "NomMunicipio": "OICATA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 507,
+    "NomMunicipio": "OTANCHE"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 511,
+    "NomMunicipio": "PACHAVITA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 514,
+    "NomMunicipio": "PAEZ"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 516,
+    "NomMunicipio": "PAIPA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 518,
+    "NomMunicipio": "PAJARITO"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 522,
+    "NomMunicipio": "PANQUEBA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 531,
+    "NomMunicipio": "PAUNA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 533,
+    "NomMunicipio": "PAYA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 537,
+    "NomMunicipio": "PAZ DE RIO"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 542,
+    "NomMunicipio": "PESCA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 550,
+    "NomMunicipio": "PISBA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 572,
+    "NomMunicipio": "PUERTO BOYACA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 580,
+    "NomMunicipio": "QUIPAMA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 599,
+    "NomMunicipio": "RAMIRIQUI"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 600,
+    "NomMunicipio": "RAQUIRA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 621,
+    "NomMunicipio": "RONDON"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 632,
+    "NomMunicipio": "SABOYA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 638,
+    "NomMunicipio": "SACHICA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 646,
+    "NomMunicipio": "SAMACA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 660,
+    "NomMunicipio": "SAN EDUARDO"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 664,
+    "NomMunicipio": "SAN JOSE DE PARE"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 667,
+    "NomMunicipio": "SAN LUIS DE GACENO"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 673,
+    "NomMunicipio": "SAN MATEO"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 676,
+    "NomMunicipio": "SAN MIGUEL DE SEMA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 681,
+    "NomMunicipio": "SAN PABLO DE BORBUR"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 686,
+    "NomMunicipio": "SANTANA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 690,
+    "NomMunicipio": "SANTA MARIA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 693,
+    "NomMunicipio": "SANTA ROSA DE VITERBO"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 696,
+    "NomMunicipio": "SANTA SOFIA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 720,
+    "NomMunicipio": "SATIVANORTE"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 723,
+    "NomMunicipio": "SATIVASUR"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 740,
+    "NomMunicipio": "SIACHOQUE"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 753,
+    "NomMunicipio": "SOATA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 755,
+    "NomMunicipio": "SOCOTA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 757,
+    "NomMunicipio": "SOCHA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 759,
+    "NomMunicipio": "SOGAMOSO"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 761,
+    "NomMunicipio": "SOMONDOCO"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 762,
+    "NomMunicipio": "SORA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 763,
+    "NomMunicipio": "SOTAQUIRA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 764,
+    "NomMunicipio": "SORACA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 774,
+    "NomMunicipio": "SUSACON"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 776,
+    "NomMunicipio": "SUTAMARCHAN"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 778,
+    "NomMunicipio": "SUTATENZA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 790,
+    "NomMunicipio": "TASCO"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 798,
+    "NomMunicipio": "TENZA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 804,
+    "NomMunicipio": "TIBANA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 806,
+    "NomMunicipio": "TIBASOSA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 808,
+    "NomMunicipio": "TINJACA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 810,
+    "NomMunicipio": "TIPACOQUE"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 814,
+    "NomMunicipio": "TOCA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 816,
+    "NomMunicipio": "TOGsI"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 820,
+    "NomMunicipio": "TOPAGA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 822,
+    "NomMunicipio": "TOTA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 832,
+    "NomMunicipio": "TUNUNGUA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 835,
+    "NomMunicipio": "TURMEQUE"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 837,
+    "NomMunicipio": "TUTA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 839,
+    "NomMunicipio": "TUTAZA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 842,
+    "NomMunicipio": "UMBITA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 861,
+    "NomMunicipio": "VENTAQUEMADA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 879,
+    "NomMunicipio": "VIRACACHA"
+  },
+  {
+    "CodDepartamento": "015",
+    "NomDepartamento": "BOYACA",
+    "CodMunicipio": 897,
+    "NomMunicipio": "ZETAQUIRA"
+  },
+  {
+    "CodDepartamento": "017",
+    "NomDepartamento": "CALDAS",
+    "CodMunicipio": "001",
+    "NomMunicipio": "MANIZALES"
+  },
+  {
+    "CodDepartamento": "017",
+    "NomDepartamento": "CALDAS",
+    "CodMunicipio": "013",
+    "NomMunicipio": "AGUADAS"
+  },
+  {
+    "CodDepartamento": "017",
+    "NomDepartamento": "CALDAS",
+    "CodMunicipio": "042",
+    "NomMunicipio": "ANSERMA"
+  },
+  {
+    "CodDepartamento": "017",
+    "NomDepartamento": "CALDAS",
+    "CodMunicipio": "050",
+    "NomMunicipio": "ARANZAZU"
+  },
+  {
+    "CodDepartamento": "017",
+    "NomDepartamento": "CALDAS",
+    "CodMunicipio": "088",
+    "NomMunicipio": "BELALCAZAR"
+  },
+  {
+    "CodDepartamento": "017",
+    "NomDepartamento": "CALDAS",
+    "CodMunicipio": 174,
+    "NomMunicipio": "CHINCHINA"
+  },
+  {
+    "CodDepartamento": "017",
+    "NomDepartamento": "CALDAS",
+    "CodMunicipio": 272,
+    "NomMunicipio": "FILADELFIA"
+  },
+  {
+    "CodDepartamento": "017",
+    "NomDepartamento": "CALDAS",
+    "CodMunicipio": 380,
+    "NomMunicipio": "LA DORADA"
+  },
+  {
+    "CodDepartamento": "017",
+    "NomDepartamento": "CALDAS",
+    "CodMunicipio": 388,
+    "NomMunicipio": "LA MERCED"
+  },
+  {
+    "CodDepartamento": "017",
+    "NomDepartamento": "CALDAS",
+    "CodMunicipio": 433,
+    "NomMunicipio": "MANZANARES"
+  },
+  {
+    "CodDepartamento": "017",
+    "NomDepartamento": "CALDAS",
+    "CodMunicipio": 442,
+    "NomMunicipio": "MARMATO"
+  },
+  {
+    "CodDepartamento": "017",
+    "NomDepartamento": "CALDAS",
+    "CodMunicipio": 444,
+    "NomMunicipio": "MARQUETALIA"
+  },
+  {
+    "CodDepartamento": "017",
+    "NomDepartamento": "CALDAS",
+    "CodMunicipio": 446,
+    "NomMunicipio": "MARULANDA"
+  },
+  {
+    "CodDepartamento": "017",
+    "NomDepartamento": "CALDAS",
+    "CodMunicipio": 486,
+    "NomMunicipio": "NEIRA"
+  },
+  {
+    "CodDepartamento": "017",
+    "NomDepartamento": "CALDAS",
+    "CodMunicipio": 495,
+    "NomMunicipio": "NORCASIA"
+  },
+  {
+    "CodDepartamento": "017",
+    "NomDepartamento": "CALDAS",
+    "CodMunicipio": 513,
+    "NomMunicipio": "PACORA"
+  },
+  {
+    "CodDepartamento": "017",
+    "NomDepartamento": "CALDAS",
+    "CodMunicipio": 524,
+    "NomMunicipio": "PALESTINA"
+  },
+  {
+    "CodDepartamento": "017",
+    "NomDepartamento": "CALDAS",
+    "CodMunicipio": 541,
+    "NomMunicipio": "PENSILVANIA"
+  },
+  {
+    "CodDepartamento": "017",
+    "NomDepartamento": "CALDAS",
+    "CodMunicipio": 614,
+    "NomMunicipio": "RIOSUCIO"
+  },
+  {
+    "CodDepartamento": "017",
+    "NomDepartamento": "CALDAS",
+    "CodMunicipio": 616,
+    "NomMunicipio": "RISARALDA"
+  },
+  {
+    "CodDepartamento": "017",
+    "NomDepartamento": "CALDAS",
+    "CodMunicipio": 653,
+    "NomMunicipio": "SALAMINA"
+  },
+  {
+    "CodDepartamento": "017",
+    "NomDepartamento": "CALDAS",
+    "CodMunicipio": 662,
+    "NomMunicipio": "SAMANA"
+  },
+  {
+    "CodDepartamento": "017",
+    "NomDepartamento": "CALDAS",
+    "CodMunicipio": 665,
+    "NomMunicipio": "SAN JOSE"
+  },
+  {
+    "CodDepartamento": "017",
+    "NomDepartamento": "CALDAS",
+    "CodMunicipio": 777,
+    "NomMunicipio": "SUPIA"
+  },
+  {
+    "CodDepartamento": "017",
+    "NomDepartamento": "CALDAS",
+    "CodMunicipio": 867,
+    "NomMunicipio": "VICTORIA"
+  },
+  {
+    "CodDepartamento": "017",
+    "NomDepartamento": "CALDAS",
+    "CodMunicipio": 873,
+    "NomMunicipio": "VILLAMARIA"
+  },
+  {
+    "CodDepartamento": "017",
+    "NomDepartamento": "CALDAS",
+    "CodMunicipio": 877,
+    "NomMunicipio": "VITERBO"
+  },
+  {
+    "CodDepartamento": "018",
+    "NomDepartamento": "CAQUETA",
+    "CodMunicipio": "001",
+    "NomMunicipio": "FLORENCIA"
+  },
+  {
+    "CodDepartamento": "018",
+    "NomDepartamento": "CAQUETA",
+    "CodMunicipio": "029",
+    "NomMunicipio": "ALBANIA"
+  },
+  {
+    "CodDepartamento": "018",
+    "NomDepartamento": "CAQUETA",
+    "CodMunicipio": "094",
+    "NomMunicipio": "BELEN DE LOS ANDAQUIES"
+  },
+  {
+    "CodDepartamento": "018",
+    "NomDepartamento": "CAQUETA",
+    "CodMunicipio": 150,
+    "NomMunicipio": "CARTAGENA DEL CHAIRA"
+  },
+  {
+    "CodDepartamento": "018",
+    "NomDepartamento": "CAQUETA",
+    "CodMunicipio": 205,
+    "NomMunicipio": "CURILLO"
+  },
+  {
+    "CodDepartamento": "018",
+    "NomDepartamento": "CAQUETA",
+    "CodMunicipio": 247,
+    "NomMunicipio": "EL DONCELLO"
+  },
+  {
+    "CodDepartamento": "018",
+    "NomDepartamento": "CAQUETA",
+    "CodMunicipio": 256,
+    "NomMunicipio": "EL PAUJIL"
+  },
+  {
+    "CodDepartamento": "018",
+    "NomDepartamento": "CAQUETA",
+    "CodMunicipio": 410,
+    "NomMunicipio": "LA MONTAÑITA"
+  },
+  {
+    "CodDepartamento": "018",
+    "NomDepartamento": "CAQUETA",
+    "CodMunicipio": 460,
+    "NomMunicipio": "MILAN"
+  },
+  {
+    "CodDepartamento": "018",
+    "NomDepartamento": "CAQUETA",
+    "CodMunicipio": 479,
+    "NomMunicipio": "MORELIA"
+  },
+  {
+    "CodDepartamento": "018",
+    "NomDepartamento": "CAQUETA",
+    "CodMunicipio": 592,
+    "NomMunicipio": "PUERTO RICO"
+  },
+  {
+    "CodDepartamento": "018",
+    "NomDepartamento": "CAQUETA",
+    "CodMunicipio": 610,
+    "NomMunicipio": "SAN JOSE DEL FRAGUA"
+  },
+  {
+    "CodDepartamento": "018",
+    "NomDepartamento": "CAQUETA",
+    "CodMunicipio": 753,
+    "NomMunicipio": "SAN VICENTE DEL CAGUAN"
+  },
+  {
+    "CodDepartamento": "018",
+    "NomDepartamento": "CAQUETA",
+    "CodMunicipio": 756,
+    "NomMunicipio": "SOLANO"
+  },
+  {
+    "CodDepartamento": "018",
+    "NomDepartamento": "CAQUETA",
+    "CodMunicipio": 785,
+    "NomMunicipio": "SOLITA"
+  },
+  {
+    "CodDepartamento": "018",
+    "NomDepartamento": "CAQUETA",
+    "CodMunicipio": 860,
+    "NomMunicipio": "VALPARAISO"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": "001",
+    "NomMunicipio": "POPAYAN"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": "022",
+    "NomMunicipio": "ALMAGUER"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": "050",
+    "NomMunicipio": "ARGELIA"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": "075",
+    "NomMunicipio": "BALBOA"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 100,
+    "NomMunicipio": "BOLIVAR"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 110,
+    "NomMunicipio": "BUENOS AIRES"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 130,
+    "NomMunicipio": "CAJIBIO"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 137,
+    "NomMunicipio": "CALDONO"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 142,
+    "NomMunicipio": "CALOTO"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 212,
+    "NomMunicipio": "CORINTO"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 256,
+    "NomMunicipio": "EL TAMBO"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 290,
+    "NomMunicipio": "FLORENCIA"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 300,
+    "NomMunicipio": "GUACHENE"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 318,
+    "NomMunicipio": "GUAPI"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 355,
+    "NomMunicipio": "INZA"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 364,
+    "NomMunicipio": "JAMBALO"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 392,
+    "NomMunicipio": "LA SIERRA"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 397,
+    "NomMunicipio": "LA VEGA"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 418,
+    "NomMunicipio": "LOPEZ"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 450,
+    "NomMunicipio": "MERCADERES"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 455,
+    "NomMunicipio": "MIRANDA"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 473,
+    "NomMunicipio": "MORALES"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 513,
+    "NomMunicipio": "PADILLA"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 517,
+    "NomMunicipio": "PAEZ"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 532,
+    "NomMunicipio": "PATIA"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 533,
+    "NomMunicipio": "PIAMONTE"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 548,
+    "NomMunicipio": "PIENDAMO"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 573,
+    "NomMunicipio": "PUERTO TEJADA"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 585,
+    "NomMunicipio": "PURACE"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 622,
+    "NomMunicipio": "ROSAS"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 693,
+    "NomMunicipio": "SAN SEBASTIAN"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 698,
+    "NomMunicipio": "SANTANDER DE QUILICHAO"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 701,
+    "NomMunicipio": "SANTA ROSA"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 743,
+    "NomMunicipio": "SILVIA"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 760,
+    "NomMunicipio": "SOTARA"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 780,
+    "NomMunicipio": "SUAREZ"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 785,
+    "NomMunicipio": "SUCRE"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 807,
+    "NomMunicipio": "TIMBIO"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 809,
+    "NomMunicipio": "TIMBIQUI"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 821,
+    "NomMunicipio": "TORIBIO"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 824,
+    "NomMunicipio": "TOTORO"
+  },
+  {
+    "CodDepartamento": "019",
+    "NomDepartamento": "CAUCA",
+    "CodMunicipio": 845,
+    "NomMunicipio": "VILLA RICA"
+  },
+  {
+    "CodDepartamento": "020",
+    "NomDepartamento": "CESAR",
+    "CodMunicipio": "001",
+    "NomMunicipio": "VALLEDUPAR"
+  },
+  {
+    "CodDepartamento": "020",
+    "NomDepartamento": "CESAR",
+    "CodMunicipio": "011",
+    "NomMunicipio": "AGUACHICA"
+  },
+  {
+    "CodDepartamento": "020",
+    "NomDepartamento": "CESAR",
+    "CodMunicipio": "013",
+    "NomMunicipio": "AGUSTIN CODAZZI"
+  },
+  {
+    "CodDepartamento": "020",
+    "NomDepartamento": "CESAR",
+    "CodMunicipio": "032",
+    "NomMunicipio": "ASTREA"
+  },
+  {
+    "CodDepartamento": "020",
+    "NomDepartamento": "CESAR",
+    "CodMunicipio": "045",
+    "NomMunicipio": "BECERRIL"
+  },
+  {
+    "CodDepartamento": "020",
+    "NomDepartamento": "CESAR",
+    "CodMunicipio": "060",
+    "NomMunicipio": "BOSCONIA"
+  },
+  {
+    "CodDepartamento": "020",
+    "NomDepartamento": "CESAR",
+    "CodMunicipio": 175,
+    "NomMunicipio": "CHIMICHAGUA"
+  },
+  {
+    "CodDepartamento": "020",
+    "NomDepartamento": "CESAR",
+    "CodMunicipio": 178,
+    "NomMunicipio": "CHIRIGUANA"
+  },
+  {
+    "CodDepartamento": "020",
+    "NomDepartamento": "CESAR",
+    "CodMunicipio": 228,
+    "NomMunicipio": "CURUMANI"
+  },
+  {
+    "CodDepartamento": "020",
+    "NomDepartamento": "CESAR",
+    "CodMunicipio": 238,
+    "NomMunicipio": "EL COPEY"
+  },
+  {
+    "CodDepartamento": "020",
+    "NomDepartamento": "CESAR",
+    "CodMunicipio": 250,
+    "NomMunicipio": "EL PASO"
+  },
+  {
+    "CodDepartamento": "020",
+    "NomDepartamento": "CESAR",
+    "CodMunicipio": 295,
+    "NomMunicipio": "GAMARRA"
+  },
+  {
+    "CodDepartamento": "020",
+    "NomDepartamento": "CESAR",
+    "CodMunicipio": 310,
+    "NomMunicipio": "GONZALEZ"
+  },
+  {
+    "CodDepartamento": "020",
+    "NomDepartamento": "CESAR",
+    "CodMunicipio": 383,
+    "NomMunicipio": "LA GLORIA"
+  },
+  {
+    "CodDepartamento": "020",
+    "NomDepartamento": "CESAR",
+    "CodMunicipio": 400,
+    "NomMunicipio": "LA JAGUA DE IBIRICO"
+  },
+  {
+    "CodDepartamento": "020",
+    "NomDepartamento": "CESAR",
+    "CodMunicipio": 443,
+    "NomMunicipio": "MANAURE"
+  },
+  {
+    "CodDepartamento": "020",
+    "NomDepartamento": "CESAR",
+    "CodMunicipio": 517,
+    "NomMunicipio": "PAILITAS"
+  },
+  {
+    "CodDepartamento": "020",
+    "NomDepartamento": "CESAR",
+    "CodMunicipio": 550,
+    "NomMunicipio": "PELAYA"
+  },
+  {
+    "CodDepartamento": "020",
+    "NomDepartamento": "CESAR",
+    "CodMunicipio": 570,
+    "NomMunicipio": "PUEBLO BELLO"
+  },
+  {
+    "CodDepartamento": "020",
+    "NomDepartamento": "CESAR",
+    "CodMunicipio": 614,
+    "NomMunicipio": "RIO DE ORO"
+  },
+  {
+    "CodDepartamento": "020",
+    "NomDepartamento": "CESAR",
+    "CodMunicipio": 621,
+    "NomMunicipio": "LA PAZ"
+  },
+  {
+    "CodDepartamento": "020",
+    "NomDepartamento": "CESAR",
+    "CodMunicipio": 710,
+    "NomMunicipio": "SAN ALBERTO"
+  },
+  {
+    "CodDepartamento": "020",
+    "NomDepartamento": "CESAR",
+    "CodMunicipio": 750,
+    "NomMunicipio": "SAN DIEGO"
+  },
+  {
+    "CodDepartamento": "020",
+    "NomDepartamento": "CESAR",
+    "CodMunicipio": 770,
+    "NomMunicipio": "SAN MARTIN"
+  },
+  {
+    "CodDepartamento": "020",
+    "NomDepartamento": "CESAR",
+    "CodMunicipio": 787,
+    "NomMunicipio": "TAMALAMEQUE"
+  },
+  {
+    "CodDepartamento": "023",
+    "NomDepartamento": "CORDOBA",
+    "CodMunicipio": "001",
+    "NomMunicipio": "MONTERIA"
+  },
+  {
+    "CodDepartamento": "023",
+    "NomDepartamento": "CORDOBA",
+    "CodMunicipio": "068",
+    "NomMunicipio": "AYAPEL"
+  },
+  {
+    "CodDepartamento": "023",
+    "NomDepartamento": "CORDOBA",
+    "CodMunicipio": "079",
+    "NomMunicipio": "BUENAVISTA"
+  },
+  {
+    "CodDepartamento": "023",
+    "NomDepartamento": "CORDOBA",
+    "CodMunicipio": "090",
+    "NomMunicipio": "CANALETE"
+  },
+  {
+    "CodDepartamento": "023",
+    "NomDepartamento": "CORDOBA",
+    "CodMunicipio": 162,
+    "NomMunicipio": "CERETE"
+  },
+  {
+    "CodDepartamento": "023",
+    "NomDepartamento": "CORDOBA",
+    "CodMunicipio": 168,
+    "NomMunicipio": "CHIMA"
+  },
+  {
+    "CodDepartamento": "023",
+    "NomDepartamento": "CORDOBA",
+    "CodMunicipio": 182,
+    "NomMunicipio": "CHINU"
+  },
+  {
+    "CodDepartamento": "023",
+    "NomDepartamento": "CORDOBA",
+    "CodMunicipio": 189,
+    "NomMunicipio": "CIENAGA DE ORO"
+  },
+  {
+    "CodDepartamento": "023",
+    "NomDepartamento": "CORDOBA",
+    "CodMunicipio": 300,
+    "NomMunicipio": "COTORRA"
+  },
+  {
+    "CodDepartamento": "023",
+    "NomDepartamento": "CORDOBA",
+    "CodMunicipio": 350,
+    "NomMunicipio": "LA APARTADA"
+  },
+  {
+    "CodDepartamento": "023",
+    "NomDepartamento": "CORDOBA",
+    "CodMunicipio": 417,
+    "NomMunicipio": "LORICA"
+  },
+  {
+    "CodDepartamento": "023",
+    "NomDepartamento": "CORDOBA",
+    "CodMunicipio": 419,
+    "NomMunicipio": "LOS CORDOBAS"
+  },
+  {
+    "CodDepartamento": "023",
+    "NomDepartamento": "CORDOBA",
+    "CodMunicipio": 464,
+    "NomMunicipio": "MOMIL"
+  },
+  {
+    "CodDepartamento": "023",
+    "NomDepartamento": "CORDOBA",
+    "CodMunicipio": 466,
+    "NomMunicipio": "MONTELIBANO"
+  },
+  {
+    "CodDepartamento": "023",
+    "NomDepartamento": "CORDOBA",
+    "CodMunicipio": 500,
+    "NomMunicipio": "MOÑITOS"
+  },
+  {
+    "CodDepartamento": "023",
+    "NomDepartamento": "CORDOBA",
+    "CodMunicipio": 555,
+    "NomMunicipio": "PLANETA RICA"
+  },
+  {
+    "CodDepartamento": "023",
+    "NomDepartamento": "CORDOBA",
+    "CodMunicipio": 570,
+    "NomMunicipio": "PUEBLO NUEVO"
+  },
+  {
+    "CodDepartamento": "023",
+    "NomDepartamento": "CORDOBA",
+    "CodMunicipio": 574,
+    "NomMunicipio": "PUERTO ESCONDIDO"
+  },
+  {
+    "CodDepartamento": "023",
+    "NomDepartamento": "CORDOBA",
+    "CodMunicipio": 580,
+    "NomMunicipio": "PUERTO LIBERTADOR"
+  },
+  {
+    "CodDepartamento": "023",
+    "NomDepartamento": "CORDOBA",
+    "CodMunicipio": 586,
+    "NomMunicipio": "PURISIMA"
+  },
+  {
+    "CodDepartamento": "023",
+    "NomDepartamento": "CORDOBA",
+    "CodMunicipio": 660,
+    "NomMunicipio": "SAHAGUN"
+  },
+  {
+    "CodDepartamento": "023",
+    "NomDepartamento": "CORDOBA",
+    "CodMunicipio": 670,
+    "NomMunicipio": "SAN ANDRES SOTAVENTO"
+  },
+  {
+    "CodDepartamento": "023",
+    "NomDepartamento": "CORDOBA",
+    "CodMunicipio": 672,
+    "NomMunicipio": "SAN ANTERO"
+  },
+  {
+    "CodDepartamento": "023",
+    "NomDepartamento": "CORDOBA",
+    "CodMunicipio": 675,
+    "NomMunicipio": "SAN BERNARDO DEL VIENTO"
+  },
+  {
+    "CodDepartamento": "023",
+    "NomDepartamento": "CORDOBA",
+    "CodMunicipio": 678,
+    "NomMunicipio": "SAN CARLOS"
+  },
+  {
+    "CodDepartamento": "023",
+    "NomDepartamento": "CORDOBA",
+    "CodMunicipio": 686,
+    "NomMunicipio": "SAN PELAYO"
+  },
+  {
+    "CodDepartamento": "023",
+    "NomDepartamento": "CORDOBA",
+    "CodMunicipio": 807,
+    "NomMunicipio": "TIERRALTA"
+  },
+  {
+    "CodDepartamento": "023",
+    "NomDepartamento": "CORDOBA",
+    "CodMunicipio": 855,
+    "NomMunicipio": "VALENCIA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": "001",
+    "NomMunicipio": "AGUA DE DIOS"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": "019",
+    "NomMunicipio": "ALBAN"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": "035",
+    "NomMunicipio": "ANAPOIMA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": "040",
+    "NomMunicipio": "ANOLAIMA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": "053",
+    "NomMunicipio": "ARBELAEZ"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": "086",
+    "NomMunicipio": "BELTRAN"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": "095",
+    "NomMunicipio": "BITUIMA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": "099",
+    "NomMunicipio": "BOJACA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 120,
+    "NomMunicipio": "CABRERA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 123,
+    "NomMunicipio": "CACHIPAY"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 126,
+    "NomMunicipio": "CAJICA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 148,
+    "NomMunicipio": "CAPARRAPI"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 151,
+    "NomMunicipio": "CAQUEZA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 154,
+    "NomMunicipio": "CARMEN DE CARUPA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 168,
+    "NomMunicipio": "CHAGUANI"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 175,
+    "NomMunicipio": "CHIA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 178,
+    "NomMunicipio": "CHIPAQUE"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 181,
+    "NomMunicipio": "CHOACHI"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 183,
+    "NomMunicipio": "CHOCONTA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 200,
+    "NomMunicipio": "COGUA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 214,
+    "NomMunicipio": "COTA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 224,
+    "NomMunicipio": "CUCUNUBA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 245,
+    "NomMunicipio": "EL COLEGIO"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 258,
+    "NomMunicipio": "EL PEÑON"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 260,
+    "NomMunicipio": "EL ROSAL"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 269,
+    "NomMunicipio": "FACATATIVA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 279,
+    "NomMunicipio": "FOMEQUE"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 281,
+    "NomMunicipio": "FOSCA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 286,
+    "NomMunicipio": "FUNZA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 288,
+    "NomMunicipio": "FUQUENE"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 290,
+    "NomMunicipio": "FUSAGASUGA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 293,
+    "NomMunicipio": "GACHALA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 295,
+    "NomMunicipio": "GACHANCIPA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 297,
+    "NomMunicipio": "GACHETA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 299,
+    "NomMunicipio": "GAMA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 307,
+    "NomMunicipio": "GIRARDOT"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 312,
+    "NomMunicipio": "GRANADA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 317,
+    "NomMunicipio": "GUACHETA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 320,
+    "NomMunicipio": "GUADUAS"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 322,
+    "NomMunicipio": "GUASCA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 324,
+    "NomMunicipio": "GUATAQUI"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 326,
+    "NomMunicipio": "GUATAVITA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 328,
+    "NomMunicipio": "GUAYABAL DE SIQUIMA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 335,
+    "NomMunicipio": "GUAYABETAL"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 339,
+    "NomMunicipio": "GUTIERREZ"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 368,
+    "NomMunicipio": "JERUSALEN"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 372,
+    "NomMunicipio": "JUNIN"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 377,
+    "NomMunicipio": "LA CALERA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 386,
+    "NomMunicipio": "LA MESA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 394,
+    "NomMunicipio": "LA PALMA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 398,
+    "NomMunicipio": "LA PEÑA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 402,
+    "NomMunicipio": "LA VEGA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 407,
+    "NomMunicipio": "LENGUAZAQUE"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 426,
+    "NomMunicipio": "MACHETA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 430,
+    "NomMunicipio": "MADRID"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 436,
+    "NomMunicipio": "MANTA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 438,
+    "NomMunicipio": "MEDINA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 473,
+    "NomMunicipio": "MOSQUERA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 483,
+    "NomMunicipio": "NARIÑO"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 486,
+    "NomMunicipio": "NEMOCON"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 488,
+    "NomMunicipio": "NILO"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 489,
+    "NomMunicipio": "NIMAIMA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 491,
+    "NomMunicipio": "NOCAIMA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 506,
+    "NomMunicipio": "VENECIA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 513,
+    "NomMunicipio": "PACHO"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 518,
+    "NomMunicipio": "PAIME"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 524,
+    "NomMunicipio": "PANDI"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 530,
+    "NomMunicipio": "PARATEBUENO"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 535,
+    "NomMunicipio": "PASCA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 572,
+    "NomMunicipio": "PUERTO SALGAR"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 580,
+    "NomMunicipio": "PULI"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 592,
+    "NomMunicipio": "QUEBRADANEGRA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 594,
+    "NomMunicipio": "QUETAME"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 596,
+    "NomMunicipio": "QUIPILE"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 599,
+    "NomMunicipio": "APULO"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 612,
+    "NomMunicipio": "RICAURTE"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 645,
+    "NomMunicipio": "SAN ANTONIO DEL TEQUENDAMA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 649,
+    "NomMunicipio": "SAN BERNARDO"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 653,
+    "NomMunicipio": "SAN CAYETANO"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 658,
+    "NomMunicipio": "SAN FRANCISCO"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 662,
+    "NomMunicipio": "SAN JUAN DE RIO SECO"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 718,
+    "NomMunicipio": "SASAIMA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 736,
+    "NomMunicipio": "SESQUILE"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 740,
+    "NomMunicipio": "SIBATE"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 743,
+    "NomMunicipio": "SILVANIA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 745,
+    "NomMunicipio": "SIMIJACA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 754,
+    "NomMunicipio": "SOACHA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 758,
+    "NomMunicipio": "SOPO"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 769,
+    "NomMunicipio": "SUBACHOQUE"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 772,
+    "NomMunicipio": "SUESCA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 777,
+    "NomMunicipio": "SUPATA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 779,
+    "NomMunicipio": "SUSA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 781,
+    "NomMunicipio": "SUTATAUSA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 785,
+    "NomMunicipio": "TABIO"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 793,
+    "NomMunicipio": "TAUSA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 797,
+    "NomMunicipio": "TENA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 799,
+    "NomMunicipio": "TENJO"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 805,
+    "NomMunicipio": "TIBACUY"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 807,
+    "NomMunicipio": "TIBIRITA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 815,
+    "NomMunicipio": "TOCAIMA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 817,
+    "NomMunicipio": "TOCANCIPA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 823,
+    "NomMunicipio": "TOPAIPI"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 839,
+    "NomMunicipio": "UBALA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 841,
+    "NomMunicipio": "UBAQUE"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 843,
+    "NomMunicipio": "VILLA DE SAN DIEGO DE UBATE"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 845,
+    "NomMunicipio": "UNE"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 851,
+    "NomMunicipio": "UTICA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 862,
+    "NomMunicipio": "VERGARA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 867,
+    "NomMunicipio": "VIANI"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 871,
+    "NomMunicipio": "VILLAGOMEZ"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 873,
+    "NomMunicipio": "VILLAPINZON"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 875,
+    "NomMunicipio": "VILLETA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 878,
+    "NomMunicipio": "VIOTA"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 885,
+    "NomMunicipio": "YACOPI"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 898,
+    "NomMunicipio": "ZIPACON"
+  },
+  {
+    "CodDepartamento": "025",
+    "NomDepartamento": "CUNDINAMARCA",
+    "CodMunicipio": 899,
+    "NomMunicipio": "ZIPAQUIRA"
+  },
+  {
+    "CodDepartamento": "027",
+    "NomDepartamento": "CHOCO",
+    "CodMunicipio": "001",
+    "NomMunicipio": "QUIBDO"
+  },
+  {
+    "CodDepartamento": "027",
+    "NomDepartamento": "CHOCO",
+    "CodMunicipio": "006",
+    "NomMunicipio": "ACANDI"
+  },
+  {
+    "CodDepartamento": "027",
+    "NomDepartamento": "CHOCO",
+    "CodMunicipio": "025",
+    "NomMunicipio": "ALTO BAUDO"
+  },
+  {
+    "CodDepartamento": "027",
+    "NomDepartamento": "CHOCO",
+    "CodMunicipio": "050",
+    "NomMunicipio": "ATRATO"
+  },
+  {
+    "CodDepartamento": "027",
+    "NomDepartamento": "CHOCO",
+    "CodMunicipio": "073",
+    "NomMunicipio": "BAGADO"
+  },
+  {
+    "CodDepartamento": "027",
+    "NomDepartamento": "CHOCO",
+    "CodMunicipio": "075",
+    "NomMunicipio": "BAHIA SOLANO"
+  },
+  {
+    "CodDepartamento": "027",
+    "NomDepartamento": "CHOCO",
+    "CodMunicipio": "077",
+    "NomMunicipio": "BAJO BAUDO"
+  },
+  {
+    "CodDepartamento": "027",
+    "NomDepartamento": "CHOCO",
+    "CodMunicipio": "099",
+    "NomMunicipio": "BOJAYA"
+  },
+  {
+    "CodDepartamento": "027",
+    "NomDepartamento": "CHOCO",
+    "CodMunicipio": 135,
+    "NomMunicipio": "EL CANTON DEL SAN PABLO"
+  },
+  {
+    "CodDepartamento": "027",
+    "NomDepartamento": "CHOCO",
+    "CodMunicipio": 150,
+    "NomMunicipio": "CARMEN DEL DARIEN"
+  },
+  {
+    "CodDepartamento": "027",
+    "NomDepartamento": "CHOCO",
+    "CodMunicipio": 160,
+    "NomMunicipio": "CERTEGUI"
+  },
+  {
+    "CodDepartamento": "027",
+    "NomDepartamento": "CHOCO",
+    "CodMunicipio": 205,
+    "NomMunicipio": "CONDOTO"
+  },
+  {
+    "CodDepartamento": "027",
+    "NomDepartamento": "CHOCO",
+    "CodMunicipio": 245,
+    "NomMunicipio": "EL CARMEN DE ATRATO"
+  },
+  {
+    "CodDepartamento": "027",
+    "NomDepartamento": "CHOCO",
+    "CodMunicipio": 250,
+    "NomMunicipio": "EL LITORAL DEL SAN JUAN"
+  },
+  {
+    "CodDepartamento": "027",
+    "NomDepartamento": "CHOCO",
+    "CodMunicipio": 361,
+    "NomMunicipio": "ISTMINA"
+  },
+  {
+    "CodDepartamento": "027",
+    "NomDepartamento": "CHOCO",
+    "CodMunicipio": 372,
+    "NomMunicipio": "JURADO"
+  },
+  {
+    "CodDepartamento": "027",
+    "NomDepartamento": "CHOCO",
+    "CodMunicipio": 413,
+    "NomMunicipio": "LLORO"
+  },
+  {
+    "CodDepartamento": "027",
+    "NomDepartamento": "CHOCO",
+    "CodMunicipio": 425,
+    "NomMunicipio": "MEDIO ATRATO"
+  },
+  {
+    "CodDepartamento": "027",
+    "NomDepartamento": "CHOCO",
+    "CodMunicipio": 430,
+    "NomMunicipio": "MEDIO BAUDO"
+  },
+  {
+    "CodDepartamento": "027",
+    "NomDepartamento": "CHOCO",
+    "CodMunicipio": 450,
+    "NomMunicipio": "MEDIO SAN JUAN"
+  },
+  {
+    "CodDepartamento": "027",
+    "NomDepartamento": "CHOCO",
+    "CodMunicipio": 491,
+    "NomMunicipio": "NOVITA"
+  },
+  {
+    "CodDepartamento": "027",
+    "NomDepartamento": "CHOCO",
+    "CodMunicipio": 495,
+    "NomMunicipio": "NUQUI"
+  },
+  {
+    "CodDepartamento": "027",
+    "NomDepartamento": "CHOCO",
+    "CodMunicipio": 580,
+    "NomMunicipio": "RIO IRO"
+  },
+  {
+    "CodDepartamento": "027",
+    "NomDepartamento": "CHOCO",
+    "CodMunicipio": 600,
+    "NomMunicipio": "RIO QUITO"
+  },
+  {
+    "CodDepartamento": "027",
+    "NomDepartamento": "CHOCO",
+    "CodMunicipio": 615,
+    "NomMunicipio": "RIOSUCIO"
+  },
+  {
+    "CodDepartamento": "027",
+    "NomDepartamento": "CHOCO",
+    "CodMunicipio": 660,
+    "NomMunicipio": "SAN JOSE DEL PALMAR"
+  },
+  {
+    "CodDepartamento": "027",
+    "NomDepartamento": "CHOCO",
+    "CodMunicipio": 745,
+    "NomMunicipio": "SIPI"
+  },
+  {
+    "CodDepartamento": "027",
+    "NomDepartamento": "CHOCO",
+    "CodMunicipio": 787,
+    "NomMunicipio": "TADO"
+  },
+  {
+    "CodDepartamento": "027",
+    "NomDepartamento": "CHOCO",
+    "CodMunicipio": 800,
+    "NomMunicipio": "UNGUIA"
+  },
+  {
+    "CodDepartamento": "027",
+    "NomDepartamento": "CHOCO",
+    "CodMunicipio": 810,
+    "NomMunicipio": "UNION PANAMERICANA"
+  },
+  {
+    "CodDepartamento": "041",
+    "NomDepartamento": "HUILA",
+    "CodMunicipio": "001",
+    "NomMunicipio": "NEIVA"
+  },
+  {
+    "CodDepartamento": "042",
+    "NomDepartamento": "HUILA",
+    "CodMunicipio": "006",
+    "NomMunicipio": "ACEVEDO"
+  },
+  {
+    "CodDepartamento": "043",
+    "NomDepartamento": "HUILA",
+    "CodMunicipio": "013",
+    "NomMunicipio": "AGRADO"
+  },
+  {
+    "CodDepartamento": "044",
+    "NomDepartamento": "HUILA",
+    "CodMunicipio": "016",
+    "NomMunicipio": "AIPE"
+  },
+  {
+    "CodDepartamento": "045",
+    "NomDepartamento": "HUILA",
+    "CodMunicipio": "020",
+    "NomMunicipio": "ALGECIRAS"
+  },
+  {
+    "CodDepartamento": "046",
+    "NomDepartamento": "HUILA",
+    "CodMunicipio": "026",
+    "NomMunicipio": "ALTAMIRA"
+  },
+  {
+    "CodDepartamento": "047",
+    "NomDepartamento": "HUILA",
+    "CodMunicipio": "078",
+    "NomMunicipio": "BARAYA"
+  },
+  {
+    "CodDepartamento": "048",
+    "NomDepartamento": "HUILA",
+    "CodMunicipio": 132,
+    "NomMunicipio": "CAMPOALEGRE"
+  },
+  {
+    "CodDepartamento": "049",
+    "NomDepartamento": "HUILA",
+    "CodMunicipio": 206,
+    "NomMunicipio": "COLOMBIA"
+  },
+  {
+    "CodDepartamento": "050",
+    "NomDepartamento": "HUILA",
+    "CodMunicipio": 244,
+    "NomMunicipio": "ELIAS"
+  },
+  {
+    "CodDepartamento": "051",
+    "NomDepartamento": "HUILA",
+    "CodMunicipio": 298,
+    "NomMunicipio": "GARZON"
+  },
+  {
+    "CodDepartamento": "052",
+    "NomDepartamento": "HUILA",
+    "CodMunicipio": 306,
+    "NomMunicipio": "GIGANTE"
+  },
+  {
+    "CodDepartamento": "053",
+    "NomDepartamento": "HUILA",
+    "CodMunicipio": 319,
+    "NomMunicipio": "GUADALUPE"
+  },
+  {
+    "CodDepartamento": "054",
+    "NomDepartamento": "HUILA",
+    "CodMunicipio": 349,
+    "NomMunicipio": "HOBO"
+  },
+  {
+    "CodDepartamento": "055",
+    "NomDepartamento": "HUILA",
+    "CodMunicipio": 357,
+    "NomMunicipio": "IQUIRA"
+  },
+  {
+    "CodDepartamento": "056",
+    "NomDepartamento": "HUILA",
+    "CodMunicipio": 359,
+    "NomMunicipio": "ISNOS"
+  },
+  {
+    "CodDepartamento": "057",
+    "NomDepartamento": "HUILA",
+    "CodMunicipio": 378,
+    "NomMunicipio": "LA ARGENTINA"
+  },
+  {
+    "CodDepartamento": "058",
+    "NomDepartamento": "HUILA",
+    "CodMunicipio": 396,
+    "NomMunicipio": "LA PLATA"
+  },
+  {
+    "CodDepartamento": "059",
+    "NomDepartamento": "HUILA",
+    "CodMunicipio": 483,
+    "NomMunicipio": "NATAGA"
+  },
+  {
+    "CodDepartamento": "060",
+    "NomDepartamento": "HUILA",
+    "CodMunicipio": 503,
+    "NomMunicipio": "OPORAPA"
+  },
+  {
+    "CodDepartamento": "061",
+    "NomDepartamento": "HUILA",
+    "CodMunicipio": 518,
+    "NomMunicipio": "PAICOL"
+  },
+  {
+    "CodDepartamento": "062",
+    "NomDepartamento": "HUILA",
+    "CodMunicipio": 524,
+    "NomMunicipio": "PALERMO"
+  },
+  {
+    "CodDepartamento": "063",
+    "NomDepartamento": "HUILA",
+    "CodMunicipio": 530,
+    "NomMunicipio": "PALESTINA"
+  },
+  {
+    "CodDepartamento": "064",
+    "NomDepartamento": "HUILA",
+    "CodMunicipio": 548,
+    "NomMunicipio": "PITAL"
+  },
+  {
+    "CodDepartamento": "065",
+    "NomDepartamento": "HUILA",
+    "CodMunicipio": 551,
+    "NomMunicipio": "PITALITO"
+  },
+  {
+    "CodDepartamento": "066",
+    "NomDepartamento": "HUILA",
+    "CodMunicipio": 615,
+    "NomMunicipio": "RIVERA"
+  },
+  {
+    "CodDepartamento": "067",
+    "NomDepartamento": "HUILA",
+    "CodMunicipio": 660,
+    "NomMunicipio": "SALADOBLANCO"
+  },
+  {
+    "CodDepartamento": "068",
+    "NomDepartamento": "HUILA",
+    "CodMunicipio": 668,
+    "NomMunicipio": "SAN AGUSTIN"
+  },
+  {
+    "CodDepartamento": "069",
+    "NomDepartamento": "HUILA",
+    "CodMunicipio": 676,
+    "NomMunicipio": "SANTA MARIA"
+  },
+  {
+    "CodDepartamento": "070",
+    "NomDepartamento": "HUILA",
+    "CodMunicipio": 770,
+    "NomMunicipio": "SUAZA"
+  },
+  {
+    "CodDepartamento": "071",
+    "NomDepartamento": "HUILA",
+    "CodMunicipio": 791,
+    "NomMunicipio": "TARQUI"
+  },
+  {
+    "CodDepartamento": "072",
+    "NomDepartamento": "HUILA",
+    "CodMunicipio": 797,
+    "NomMunicipio": "TESALIA"
+  },
+  {
+    "CodDepartamento": "073",
+    "NomDepartamento": "HUILA",
+    "CodMunicipio": 799,
+    "NomMunicipio": "TELLO"
+  },
+  {
+    "CodDepartamento": "074",
+    "NomDepartamento": "HUILA",
+    "CodMunicipio": 801,
+    "NomMunicipio": "TERUEL"
+  },
+  {
+    "CodDepartamento": "075",
+    "NomDepartamento": "HUILA",
+    "CodMunicipio": 807,
+    "NomMunicipio": "TIMANA"
+  },
+  {
+    "CodDepartamento": "076",
+    "NomDepartamento": "HUILA",
+    "CodMunicipio": 872,
+    "NomMunicipio": "VILLAVIEJA"
+  },
+  {
+    "CodDepartamento": "077",
+    "NomDepartamento": "HUILA",
+    "CodMunicipio": 885,
+    "NomMunicipio": "YAGUARA"
+  },
+  {
+    "CodDepartamento": "044",
+    "NomDepartamento": "LA GUAJIRA",
+    "CodMunicipio": "001",
+    "NomMunicipio": "RIOHACHA"
+  },
+  {
+    "CodDepartamento": "044",
+    "NomDepartamento": "LA GUAJIRA",
+    "CodMunicipio": "035",
+    "NomMunicipio": "ALBANIA"
+  },
+  {
+    "CodDepartamento": "044",
+    "NomDepartamento": "LA GUAJIRA",
+    "CodMunicipio": "078",
+    "NomMunicipio": "BARRANCAS"
+  },
+  {
+    "CodDepartamento": "044",
+    "NomDepartamento": "LA GUAJIRA",
+    "CodMunicipio": "090",
+    "NomMunicipio": "DIBULLA"
+  },
+  {
+    "CodDepartamento": "044",
+    "NomDepartamento": "LA GUAJIRA",
+    "CodMunicipio": "098",
+    "NomMunicipio": "DISTRACCION"
+  },
+  {
+    "CodDepartamento": "044",
+    "NomDepartamento": "LA GUAJIRA",
+    "CodMunicipio": 110,
+    "NomMunicipio": "EL MOLINO"
+  },
+  {
+    "CodDepartamento": "044",
+    "NomDepartamento": "LA GUAJIRA",
+    "CodMunicipio": 279,
+    "NomMunicipio": "FONSECA"
+  },
+  {
+    "CodDepartamento": "044",
+    "NomDepartamento": "LA GUAJIRA",
+    "CodMunicipio": 378,
+    "NomMunicipio": "HATONUEVO"
+  },
+  {
+    "CodDepartamento": "044",
+    "NomDepartamento": "LA GUAJIRA",
+    "CodMunicipio": 420,
+    "NomMunicipio": "LA JAGUA DEL PILAR"
+  },
+  {
+    "CodDepartamento": "044",
+    "NomDepartamento": "LA GUAJIRA",
+    "CodMunicipio": 430,
+    "NomMunicipio": "MAICAO"
+  },
+  {
+    "CodDepartamento": "044",
+    "NomDepartamento": "LA GUAJIRA",
+    "CodMunicipio": 560,
+    "NomMunicipio": "MANAURE"
+  },
+  {
+    "CodDepartamento": "044",
+    "NomDepartamento": "LA GUAJIRA",
+    "CodMunicipio": 650,
+    "NomMunicipio": "SAN JUAN DEL CESAR"
+  },
+  {
+    "CodDepartamento": "044",
+    "NomDepartamento": "LA GUAJIRA",
+    "CodMunicipio": 847,
+    "NomMunicipio": "URIBIA"
+  },
+  {
+    "CodDepartamento": "044",
+    "NomDepartamento": "LA GUAJIRA",
+    "CodMunicipio": 855,
+    "NomMunicipio": "URUMITA"
+  },
+  {
+    "CodDepartamento": "044",
+    "NomDepartamento": "LA GUAJIRA",
+    "CodMunicipio": 874,
+    "NomMunicipio": "VILLANUEVA"
+  },
+  {
+    "CodDepartamento": 47,
+    "NomDepartamento": "MAGDALENA",
+    "CodMunicipio": "001",
+    "NomMunicipio": "SANTA MARTA"
+  },
+  {
+    "CodDepartamento": 47,
+    "NomDepartamento": "MAGDALENA",
+    "CodMunicipio": "030",
+    "NomMunicipio": "ALGARROBO"
+  },
+  {
+    "CodDepartamento": 47,
+    "NomDepartamento": "MAGDALENA",
+    "CodMunicipio": "053",
+    "NomMunicipio": "ARACATACA"
+  },
+  {
+    "CodDepartamento": 47,
+    "NomDepartamento": "MAGDALENA",
+    "CodMunicipio": "058",
+    "NomMunicipio": "ARIGUANI"
+  },
+  {
+    "CodDepartamento": 47,
+    "NomDepartamento": "MAGDALENA",
+    "CodMunicipio": 161,
+    "NomMunicipio": "CERRO SAN ANTONIO"
+  },
+  {
+    "CodDepartamento": 47,
+    "NomDepartamento": "MAGDALENA",
+    "CodMunicipio": 170,
+    "NomMunicipio": "CHIBOLO"
+  },
+  {
+    "CodDepartamento": 47,
+    "NomDepartamento": "MAGDALENA",
+    "CodMunicipio": 189,
+    "NomMunicipio": "CIENAGA"
+  },
+  {
+    "CodDepartamento": 47,
+    "NomDepartamento": "MAGDALENA",
+    "CodMunicipio": 205,
+    "NomMunicipio": "CONCORDIA"
+  },
+  {
+    "CodDepartamento": 47,
+    "NomDepartamento": "MAGDALENA",
+    "CodMunicipio": 245,
+    "NomMunicipio": "EL BANCO"
+  },
+  {
+    "CodDepartamento": 47,
+    "NomDepartamento": "MAGDALENA",
+    "CodMunicipio": 258,
+    "NomMunicipio": "EL PIÑON"
+  },
+  {
+    "CodDepartamento": 47,
+    "NomDepartamento": "MAGDALENA",
+    "CodMunicipio": 268,
+    "NomMunicipio": "EL RETEN"
+  },
+  {
+    "CodDepartamento": 47,
+    "NomDepartamento": "MAGDALENA",
+    "CodMunicipio": 288,
+    "NomMunicipio": "FUNDACION"
+  },
+  {
+    "CodDepartamento": 47,
+    "NomDepartamento": "MAGDALENA",
+    "CodMunicipio": 318,
+    "NomMunicipio": "GUAMAL"
+  },
+  {
+    "CodDepartamento": 47,
+    "NomDepartamento": "MAGDALENA",
+    "CodMunicipio": 460,
+    "NomMunicipio": "NUEVA GRANADA"
+  },
+  {
+    "CodDepartamento": 47,
+    "NomDepartamento": "MAGDALENA",
+    "CodMunicipio": 541,
+    "NomMunicipio": "PEDRAZA"
+  },
+  {
+    "CodDepartamento": 47,
+    "NomDepartamento": "MAGDALENA",
+    "CodMunicipio": 545,
+    "NomMunicipio": "PIJIÑO DEL CARMEN"
+  },
+  {
+    "CodDepartamento": 47,
+    "NomDepartamento": "MAGDALENA",
+    "CodMunicipio": 551,
+    "NomMunicipio": "PIVIJAY"
+  },
+  {
+    "CodDepartamento": 47,
+    "NomDepartamento": "MAGDALENA",
+    "CodMunicipio": 555,
+    "NomMunicipio": "PLATO"
+  },
+  {
+    "CodDepartamento": 47,
+    "NomDepartamento": "MAGDALENA",
+    "CodMunicipio": 570,
+    "NomMunicipio": "PUEBLOVIEJO"
+  },
+  {
+    "CodDepartamento": 47,
+    "NomDepartamento": "MAGDALENA",
+    "CodMunicipio": 605,
+    "NomMunicipio": "REMOLINO"
+  },
+  {
+    "CodDepartamento": 47,
+    "NomDepartamento": "MAGDALENA",
+    "CodMunicipio": 660,
+    "NomMunicipio": "SABANAS DE SAN ANGEL"
+  },
+  {
+    "CodDepartamento": 47,
+    "NomDepartamento": "MAGDALENA",
+    "CodMunicipio": 675,
+    "NomMunicipio": "SALAMINA"
+  },
+  {
+    "CodDepartamento": 47,
+    "NomDepartamento": "MAGDALENA",
+    "CodMunicipio": 692,
+    "NomMunicipio": "SAN SEBASTIAN DE BUENAVISTA"
+  },
+  {
+    "CodDepartamento": 47,
+    "NomDepartamento": "MAGDALENA",
+    "CodMunicipio": 703,
+    "NomMunicipio": "SAN ZENON"
+  },
+  {
+    "CodDepartamento": 47,
+    "NomDepartamento": "MAGDALENA",
+    "CodMunicipio": 707,
+    "NomMunicipio": "SANTA ANA"
+  },
+  {
+    "CodDepartamento": 47,
+    "NomDepartamento": "MAGDALENA",
+    "CodMunicipio": 720,
+    "NomMunicipio": "SANTA BARBARA DE PINTO"
+  },
+  {
+    "CodDepartamento": 47,
+    "NomDepartamento": "MAGDALENA",
+    "CodMunicipio": 745,
+    "NomMunicipio": "SITIONUEVO"
+  },
+  {
+    "CodDepartamento": 47,
+    "NomDepartamento": "MAGDALENA",
+    "CodMunicipio": 798,
+    "NomMunicipio": "TENERIFE"
+  },
+  {
+    "CodDepartamento": 47,
+    "NomDepartamento": "MAGDALENA",
+    "CodMunicipio": 960,
+    "NomMunicipio": "ZAPAYAN"
+  },
+  {
+    "CodDepartamento": 47,
+    "NomDepartamento": "MAGDALENA",
+    "CodMunicipio": 980,
+    "NomMunicipio": "ZONA BANANERA"
+  },
+  {
+    "CodDepartamento": 50,
+    "NomDepartamento": "META",
+    "CodMunicipio": "001",
+    "NomMunicipio": "VILLAVICENCIO"
+  },
+  {
+    "CodDepartamento": 50,
+    "NomDepartamento": "META",
+    "CodMunicipio": "006",
+    "NomMunicipio": "ACACIAS"
+  },
+  {
+    "CodDepartamento": 50,
+    "NomDepartamento": "META",
+    "CodMunicipio": 110,
+    "NomMunicipio": "BARRANCA DE UPIA"
+  },
+  {
+    "CodDepartamento": 50,
+    "NomDepartamento": "META",
+    "CodMunicipio": 124,
+    "NomMunicipio": "CABUYARO"
+  },
+  {
+    "CodDepartamento": 50,
+    "NomDepartamento": "META",
+    "CodMunicipio": 150,
+    "NomMunicipio": "CASTILLA LA NUEVA"
+  },
+  {
+    "CodDepartamento": 50,
+    "NomDepartamento": "META",
+    "CodMunicipio": 223,
+    "NomMunicipio": "CUBARRAL"
+  },
+  {
+    "CodDepartamento": 50,
+    "NomDepartamento": "META",
+    "CodMunicipio": 226,
+    "NomMunicipio": "CUMARAL"
+  },
+  {
+    "CodDepartamento": 50,
+    "NomDepartamento": "META",
+    "CodMunicipio": 245,
+    "NomMunicipio": "EL CALVARIO"
+  },
+  {
+    "CodDepartamento": 50,
+    "NomDepartamento": "META",
+    "CodMunicipio": 251,
+    "NomMunicipio": "EL CASTILLO"
+  },
+  {
+    "CodDepartamento": 50,
+    "NomDepartamento": "META",
+    "CodMunicipio": 270,
+    "NomMunicipio": "EL DORADO"
+  },
+  {
+    "CodDepartamento": 50,
+    "NomDepartamento": "META",
+    "CodMunicipio": 287,
+    "NomMunicipio": "FUENTE DE ORO"
+  },
+  {
+    "CodDepartamento": 50,
+    "NomDepartamento": "META",
+    "CodMunicipio": 313,
+    "NomMunicipio": "GRANADA"
+  },
+  {
+    "CodDepartamento": 50,
+    "NomDepartamento": "META",
+    "CodMunicipio": 318,
+    "NomMunicipio": "GUAMAL"
+  },
+  {
+    "CodDepartamento": 50,
+    "NomDepartamento": "META",
+    "CodMunicipio": 325,
+    "NomMunicipio": "MAPIRIPAN"
+  },
+  {
+    "CodDepartamento": 50,
+    "NomDepartamento": "META",
+    "CodMunicipio": 330,
+    "NomMunicipio": "MESETAS"
+  },
+  {
+    "CodDepartamento": 50,
+    "NomDepartamento": "META",
+    "CodMunicipio": 350,
+    "NomMunicipio": "LA MACARENA"
+  },
+  {
+    "CodDepartamento": 50,
+    "NomDepartamento": "META",
+    "CodMunicipio": 370,
+    "NomMunicipio": "URIBE"
+  },
+  {
+    "CodDepartamento": 50,
+    "NomDepartamento": "META",
+    "CodMunicipio": 400,
+    "NomMunicipio": "LEJANIAS"
+  },
+  {
+    "CodDepartamento": 50,
+    "NomDepartamento": "META",
+    "CodMunicipio": 450,
+    "NomMunicipio": "PUERTO CONCORDIA"
+  },
+  {
+    "CodDepartamento": 50,
+    "NomDepartamento": "META",
+    "CodMunicipio": 568,
+    "NomMunicipio": "PUERTO GAITAN"
+  },
+  {
+    "CodDepartamento": 50,
+    "NomDepartamento": "META",
+    "CodMunicipio": 573,
+    "NomMunicipio": "PUERTO LOPEZ"
+  },
+  {
+    "CodDepartamento": 50,
+    "NomDepartamento": "META",
+    "CodMunicipio": 577,
+    "NomMunicipio": "PUERTO LLERAS"
+  },
+  {
+    "CodDepartamento": 50,
+    "NomDepartamento": "META",
+    "CodMunicipio": 590,
+    "NomMunicipio": "PUERTO RICO"
+  },
+  {
+    "CodDepartamento": 50,
+    "NomDepartamento": "META",
+    "CodMunicipio": 606,
+    "NomMunicipio": "RESTREPO"
+  },
+  {
+    "CodDepartamento": 50,
+    "NomDepartamento": "META",
+    "CodMunicipio": 680,
+    "NomMunicipio": "SAN CARLOS DE GUAROA"
+  },
+  {
+    "CodDepartamento": 50,
+    "NomDepartamento": "META",
+    "CodMunicipio": 683,
+    "NomMunicipio": "SAN JUAN DE ARAMA"
+  },
+  {
+    "CodDepartamento": 50,
+    "NomDepartamento": "META",
+    "CodMunicipio": 686,
+    "NomMunicipio": "SAN JUANITO"
+  },
+  {
+    "CodDepartamento": 50,
+    "NomDepartamento": "META",
+    "CodMunicipio": 689,
+    "NomMunicipio": "SAN MARTIN"
+  },
+  {
+    "CodDepartamento": 50,
+    "NomDepartamento": "META",
+    "CodMunicipio": 711,
+    "NomMunicipio": "VISTAHERMOSA"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": "001",
+    "NomMunicipio": "PASTO"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": "019",
+    "NomMunicipio": "ALBAN"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": "022",
+    "NomMunicipio": "ALDANA"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": "036",
+    "NomMunicipio": "ANCUYA"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": "051",
+    "NomMunicipio": "ARBOLEDA"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": "079",
+    "NomMunicipio": "BARBACOAS"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": "083",
+    "NomMunicipio": "BELEN"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 110,
+    "NomMunicipio": "BUESACO"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 203,
+    "NomMunicipio": "COLON"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 207,
+    "NomMunicipio": "CONSACA"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 210,
+    "NomMunicipio": "CONTADERO"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 215,
+    "NomMunicipio": "CORDOBA"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 224,
+    "NomMunicipio": "CUASPUD"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 227,
+    "NomMunicipio": "CUMBAL"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 233,
+    "NomMunicipio": "CUMBITARA"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 240,
+    "NomMunicipio": "CHACHAGsI"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 250,
+    "NomMunicipio": "EL CHARCO"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 254,
+    "NomMunicipio": "EL PEÑOL"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 256,
+    "NomMunicipio": "EL ROSARIO"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 258,
+    "NomMunicipio": "EL TABLON DE GOMEZ"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 260,
+    "NomMunicipio": "EL TAMBO"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 287,
+    "NomMunicipio": "FUNES"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 317,
+    "NomMunicipio": "GUACHUCAL"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 320,
+    "NomMunicipio": "GUAITARILLA"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 323,
+    "NomMunicipio": "GUALMATAN"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 352,
+    "NomMunicipio": "ILES"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 354,
+    "NomMunicipio": "IMUES"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 356,
+    "NomMunicipio": "IPIALES"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 378,
+    "NomMunicipio": "LA CRUZ"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 381,
+    "NomMunicipio": "LA FLORIDA"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 385,
+    "NomMunicipio": "LA LLANADA"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 390,
+    "NomMunicipio": "LA TOLA"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 399,
+    "NomMunicipio": "LA UNION"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 405,
+    "NomMunicipio": "LEIVA"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 411,
+    "NomMunicipio": "LINARES"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 418,
+    "NomMunicipio": "LOS ANDES"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 427,
+    "NomMunicipio": "MAGsI"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 435,
+    "NomMunicipio": "MALLAMA"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 473,
+    "NomMunicipio": "MOSQUERA"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 480,
+    "NomMunicipio": "NARIÑO"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 490,
+    "NomMunicipio": "OLAYA HERRERA"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 506,
+    "NomMunicipio": "OSPINA"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 520,
+    "NomMunicipio": "FRANCISCO PIZARRO"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 540,
+    "NomMunicipio": "POLICARPA"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 560,
+    "NomMunicipio": "POTOSI"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 565,
+    "NomMunicipio": "PROVIDENCIA"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 573,
+    "NomMunicipio": "PUERRES"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 585,
+    "NomMunicipio": "PUPIALES"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 612,
+    "NomMunicipio": "RICAURTE"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 621,
+    "NomMunicipio": "ROBERTO PAYAN"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 678,
+    "NomMunicipio": "SAMANIEGO"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 683,
+    "NomMunicipio": "SANDONA"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 685,
+    "NomMunicipio": "SAN BERNARDO"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 687,
+    "NomMunicipio": "SAN LORENZO"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 693,
+    "NomMunicipio": "SAN PABLO"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 694,
+    "NomMunicipio": "SAN PEDRO DE CARTAGO"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 696,
+    "NomMunicipio": "SANTA BARBARA"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 699,
+    "NomMunicipio": "SANTACRUZ"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 720,
+    "NomMunicipio": "SAPUYES"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 786,
+    "NomMunicipio": "TAMINANGO"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 788,
+    "NomMunicipio": "TANGUA"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 835,
+    "NomMunicipio": "SAN ANDRES DE TUMACO"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 838,
+    "NomMunicipio": "TUQUERRES"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO",
+    "CodMunicipio": 885,
+    "NomMunicipio": "YACUANQUER"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": "001",
+    "NomMunicipio": "CUCUTA"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": "003",
+    "NomMunicipio": "ABREGO"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": "051",
+    "NomMunicipio": "ARBOLEDAS"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": "099",
+    "NomMunicipio": "BOCHALEMA"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": 109,
+    "NomMunicipio": "BUCARASICA"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": 125,
+    "NomMunicipio": "CACOTA"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": 128,
+    "NomMunicipio": "CACHIRA"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": 172,
+    "NomMunicipio": "CHINACOTA"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": 174,
+    "NomMunicipio": "CHITAGA"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": 206,
+    "NomMunicipio": "CONVENCION"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": 223,
+    "NomMunicipio": "CUCUTILLA"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": 239,
+    "NomMunicipio": "DURANIA"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": 245,
+    "NomMunicipio": "EL CARMEN"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": 250,
+    "NomMunicipio": "EL TARRA"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": 261,
+    "NomMunicipio": "EL ZULIA"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": 313,
+    "NomMunicipio": "GRAMALOTE"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": 344,
+    "NomMunicipio": "HACARI"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": 347,
+    "NomMunicipio": "HERRAN"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": 377,
+    "NomMunicipio": "LABATECA"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": 385,
+    "NomMunicipio": "LA ESPERANZA"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": 398,
+    "NomMunicipio": "LA PLAYA"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": 405,
+    "NomMunicipio": "LOS PATIOS"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": 418,
+    "NomMunicipio": "LOURDES"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": 480,
+    "NomMunicipio": "MUTISCUA"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": 498,
+    "NomMunicipio": "OCAÑA"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": 518,
+    "NomMunicipio": "PAMPLONA"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": 520,
+    "NomMunicipio": "PAMPLONITA"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": 553,
+    "NomMunicipio": "PUERTO SANTANDER"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": 599,
+    "NomMunicipio": "RAGONVALIA"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": 660,
+    "NomMunicipio": "SALAZAR"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": 670,
+    "NomMunicipio": "SAN CALIXTO"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": 673,
+    "NomMunicipio": "SAN CAYETANO"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": 680,
+    "NomMunicipio": "SANTIAGO"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": 720,
+    "NomMunicipio": "SARDINATA"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": 743,
+    "NomMunicipio": "SILOS"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": 800,
+    "NomMunicipio": "TEORAMA"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": 810,
+    "NomMunicipio": "TIBU"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": 820,
+    "NomMunicipio": "TOLEDO"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": 871,
+    "NomMunicipio": "VILLA CARO"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "N. DE SANTANDER",
+    "CodMunicipio": 874,
+    "NomMunicipio": "VILLA DEL ROSARIO"
+  },
+  {
+    "CodDepartamento": 63,
+    "NomDepartamento": "QUINDIO",
+    "CodMunicipio": "001",
+    "NomMunicipio": "ARMENIA"
+  },
+  {
+    "CodDepartamento": 63,
+    "NomDepartamento": "QUINDIO",
+    "CodMunicipio": 111,
+    "NomMunicipio": "BUENAVISTA"
+  },
+  {
+    "CodDepartamento": 63,
+    "NomDepartamento": "QUINDIO",
+    "CodMunicipio": 130,
+    "NomMunicipio": "CALARCA"
+  },
+  {
+    "CodDepartamento": 63,
+    "NomDepartamento": "QUINDIO",
+    "CodMunicipio": 190,
+    "NomMunicipio": "CIRCASIA"
+  },
+  {
+    "CodDepartamento": 63,
+    "NomDepartamento": "QUINDIO",
+    "CodMunicipio": 212,
+    "NomMunicipio": "CORDOBA"
+  },
+  {
+    "CodDepartamento": 63,
+    "NomDepartamento": "QUINDIO",
+    "CodMunicipio": 272,
+    "NomMunicipio": "FILANDIA"
+  },
+  {
+    "CodDepartamento": 63,
+    "NomDepartamento": "QUINDIO",
+    "CodMunicipio": 302,
+    "NomMunicipio": "GENOVA"
+  },
+  {
+    "CodDepartamento": 63,
+    "NomDepartamento": "QUINDIO",
+    "CodMunicipio": 401,
+    "NomMunicipio": "LA TEBAIDA"
+  },
+  {
+    "CodDepartamento": 63,
+    "NomDepartamento": "QUINDIO",
+    "CodMunicipio": 470,
+    "NomMunicipio": "MONTENEGRO"
+  },
+  {
+    "CodDepartamento": 63,
+    "NomDepartamento": "QUINDIO",
+    "CodMunicipio": 548,
+    "NomMunicipio": "PIJAO"
+  },
+  {
+    "CodDepartamento": 63,
+    "NomDepartamento": "QUINDIO",
+    "CodMunicipio": 594,
+    "NomMunicipio": "QUIMBAYA"
+  },
+  {
+    "CodDepartamento": 63,
+    "NomDepartamento": "QUINDIO",
+    "CodMunicipio": 690,
+    "NomMunicipio": "SALENTO"
+  },
+  {
+    "CodDepartamento": 66,
+    "NomDepartamento": "RISARALDA",
+    "CodMunicipio": "001",
+    "NomMunicipio": "PEREIRA"
+  },
+  {
+    "CodDepartamento": 66,
+    "NomDepartamento": "RISARALDA",
+    "CodMunicipio": "045",
+    "NomMunicipio": "APIA"
+  },
+  {
+    "CodDepartamento": 66,
+    "NomDepartamento": "RISARALDA",
+    "CodMunicipio": "075",
+    "NomMunicipio": "BALBOA"
+  },
+  {
+    "CodDepartamento": 66,
+    "NomDepartamento": "RISARALDA",
+    "CodMunicipio": "088",
+    "NomMunicipio": "BELEN DE UMBRIA"
+  },
+  {
+    "CodDepartamento": 66,
+    "NomDepartamento": "RISARALDA",
+    "CodMunicipio": 170,
+    "NomMunicipio": "DOSQUEBRADAS"
+  },
+  {
+    "CodDepartamento": 66,
+    "NomDepartamento": "RISARALDA",
+    "CodMunicipio": 318,
+    "NomMunicipio": "GUATICA"
+  },
+  {
+    "CodDepartamento": 66,
+    "NomDepartamento": "RISARALDA",
+    "CodMunicipio": 383,
+    "NomMunicipio": "LA CELIA"
+  },
+  {
+    "CodDepartamento": 66,
+    "NomDepartamento": "RISARALDA",
+    "CodMunicipio": 400,
+    "NomMunicipio": "LA VIRGINIA"
+  },
+  {
+    "CodDepartamento": 66,
+    "NomDepartamento": "RISARALDA",
+    "CodMunicipio": 440,
+    "NomMunicipio": "MARSELLA"
+  },
+  {
+    "CodDepartamento": 66,
+    "NomDepartamento": "RISARALDA",
+    "CodMunicipio": 456,
+    "NomMunicipio": "MISTRATO"
+  },
+  {
+    "CodDepartamento": 66,
+    "NomDepartamento": "RISARALDA",
+    "CodMunicipio": 572,
+    "NomMunicipio": "PUEBLO RICO"
+  },
+  {
+    "CodDepartamento": 66,
+    "NomDepartamento": "RISARALDA",
+    "CodMunicipio": 594,
+    "NomMunicipio": "QUINCHIA"
+  },
+  {
+    "CodDepartamento": 66,
+    "NomDepartamento": "RISARALDA",
+    "CodMunicipio": 682,
+    "NomMunicipio": "SANTA ROSA DE CABAL"
+  },
+  {
+    "CodDepartamento": 66,
+    "NomDepartamento": "RISARALDA",
+    "CodMunicipio": 687,
+    "NomMunicipio": "SANTUARIO"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": "001",
+    "NomMunicipio": "BUCARAMANGA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": "013",
+    "NomMunicipio": "AGUADA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": "020",
+    "NomMunicipio": "ALBANIA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": "051",
+    "NomMunicipio": "ARATOCA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": "077",
+    "NomMunicipio": "BARBOSA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": "079",
+    "NomMunicipio": "BARICHARA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": "081",
+    "NomMunicipio": "BARRANCABERMEJA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": "092",
+    "NomMunicipio": "BETULIA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 101,
+    "NomMunicipio": "BOLIVAR"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 121,
+    "NomMunicipio": "CABRERA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 132,
+    "NomMunicipio": "CALIFORNIA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 147,
+    "NomMunicipio": "CAPITANEJO"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 152,
+    "NomMunicipio": "CARCASI"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 160,
+    "NomMunicipio": "CEPITA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 162,
+    "NomMunicipio": "CERRITO"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 167,
+    "NomMunicipio": "CHARALA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 169,
+    "NomMunicipio": "CHARTA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 176,
+    "NomMunicipio": "CHIMA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 179,
+    "NomMunicipio": "CHIPATA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 190,
+    "NomMunicipio": "CIMITARRA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 207,
+    "NomMunicipio": "CONCEPCION"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 209,
+    "NomMunicipio": "CONFINES"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 211,
+    "NomMunicipio": "CONTRATACION"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 217,
+    "NomMunicipio": "COROMORO"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 229,
+    "NomMunicipio": "CURITI"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 235,
+    "NomMunicipio": "EL CARMEN DE CHUCURI"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 245,
+    "NomMunicipio": "EL GUACAMAYO"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 250,
+    "NomMunicipio": "EL PEÑON"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 255,
+    "NomMunicipio": "EL PLAYON"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 264,
+    "NomMunicipio": "ENCINO"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 266,
+    "NomMunicipio": "ENCISO"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 271,
+    "NomMunicipio": "FLORIAN"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 276,
+    "NomMunicipio": "FLORIDABLANCA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 296,
+    "NomMunicipio": "GALAN"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 298,
+    "NomMunicipio": "GAMBITA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 307,
+    "NomMunicipio": "GIRON"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 318,
+    "NomMunicipio": "GUACA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 320,
+    "NomMunicipio": "GUADALUPE"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 322,
+    "NomMunicipio": "GUAPOTA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 324,
+    "NomMunicipio": "GUAVATA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 327,
+    "NomMunicipio": "GsEPSA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 344,
+    "NomMunicipio": "HATO"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 368,
+    "NomMunicipio": "JESUS MARIA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 370,
+    "NomMunicipio": "JORDAN"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 377,
+    "NomMunicipio": "LA BELLEZA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 385,
+    "NomMunicipio": "LANDAZURI"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 397,
+    "NomMunicipio": "LA PAZ"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 406,
+    "NomMunicipio": "LEBRIJA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 418,
+    "NomMunicipio": "LOS SANTOS"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 425,
+    "NomMunicipio": "MACARAVITA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 432,
+    "NomMunicipio": "MALAGA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 444,
+    "NomMunicipio": "MATANZA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 464,
+    "NomMunicipio": "MOGOTES"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 468,
+    "NomMunicipio": "MOLAGAVITA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 498,
+    "NomMunicipio": "OCAMONTE"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 500,
+    "NomMunicipio": "OIBA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 502,
+    "NomMunicipio": "ONZAGA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 522,
+    "NomMunicipio": "PALMAR"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 524,
+    "NomMunicipio": "PALMAS DEL SOCORRO"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 533,
+    "NomMunicipio": "PARAMO"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 547,
+    "NomMunicipio": "PIEDECUESTA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 549,
+    "NomMunicipio": "PINCHOTE"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 572,
+    "NomMunicipio": "PUENTE NACIONAL"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 573,
+    "NomMunicipio": "PUERTO PARRA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 575,
+    "NomMunicipio": "PUERTO WILCHES"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 615,
+    "NomMunicipio": "RIONEGRO"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 655,
+    "NomMunicipio": "SABANA DE TORRES"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 669,
+    "NomMunicipio": "SAN ANDRES"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 673,
+    "NomMunicipio": "SAN BENITO"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 679,
+    "NomMunicipio": "SAN GIL"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 682,
+    "NomMunicipio": "SAN JOAQUIN"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 684,
+    "NomMunicipio": "SAN JOSE DE MIRANDA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 686,
+    "NomMunicipio": "SAN MIGUEL"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 689,
+    "NomMunicipio": "SAN VICENTE DE CHUCURI"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 705,
+    "NomMunicipio": "SANTA BARBARA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 720,
+    "NomMunicipio": "SANTA HELENA DEL OPON"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 745,
+    "NomMunicipio": "SIMACOTA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 755,
+    "NomMunicipio": "SOCORRO"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 770,
+    "NomMunicipio": "SUAITA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 773,
+    "NomMunicipio": "SUCRE"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 780,
+    "NomMunicipio": "SURATA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 820,
+    "NomMunicipio": "TONA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 855,
+    "NomMunicipio": "VALLE DE SAN JOSE"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 861,
+    "NomMunicipio": "VELEZ"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 867,
+    "NomMunicipio": "VETAS"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 872,
+    "NomMunicipio": "VILLANUEVA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER",
+    "CodMunicipio": 895,
+    "NomMunicipio": "ZAPATOCA"
+  },
+  {
+    "CodDepartamento": 70,
+    "NomDepartamento": "SUCRE",
+    "CodMunicipio": "001",
+    "NomMunicipio": "SINCELEJO"
+  },
+  {
+    "CodDepartamento": 70,
+    "NomDepartamento": "SUCRE",
+    "CodMunicipio": 110,
+    "NomMunicipio": "BUENAVISTA"
+  },
+  {
+    "CodDepartamento": 70,
+    "NomDepartamento": "SUCRE",
+    "CodMunicipio": 124,
+    "NomMunicipio": "CAIMITO"
+  },
+  {
+    "CodDepartamento": 70,
+    "NomDepartamento": "SUCRE",
+    "CodMunicipio": 204,
+    "NomMunicipio": "COLOSO"
+  },
+  {
+    "CodDepartamento": 70,
+    "NomDepartamento": "SUCRE",
+    "CodMunicipio": 215,
+    "NomMunicipio": "COROZAL"
+  },
+  {
+    "CodDepartamento": 70,
+    "NomDepartamento": "SUCRE",
+    "CodMunicipio": 221,
+    "NomMunicipio": "COVEÑAS"
+  },
+  {
+    "CodDepartamento": 70,
+    "NomDepartamento": "SUCRE",
+    "CodMunicipio": 230,
+    "NomMunicipio": "CHALAN"
+  },
+  {
+    "CodDepartamento": 70,
+    "NomDepartamento": "SUCRE",
+    "CodMunicipio": 233,
+    "NomMunicipio": "EL ROBLE"
+  },
+  {
+    "CodDepartamento": 70,
+    "NomDepartamento": "SUCRE",
+    "CodMunicipio": 235,
+    "NomMunicipio": "GALERAS"
+  },
+  {
+    "CodDepartamento": 70,
+    "NomDepartamento": "SUCRE",
+    "CodMunicipio": 265,
+    "NomMunicipio": "GUARANDA"
+  },
+  {
+    "CodDepartamento": 70,
+    "NomDepartamento": "SUCRE",
+    "CodMunicipio": 400,
+    "NomMunicipio": "LA UNION"
+  },
+  {
+    "CodDepartamento": 70,
+    "NomDepartamento": "SUCRE",
+    "CodMunicipio": 418,
+    "NomMunicipio": "LOS PALMITOS"
+  },
+  {
+    "CodDepartamento": 70,
+    "NomDepartamento": "SUCRE",
+    "CodMunicipio": 429,
+    "NomMunicipio": "MAJAGUAL"
+  },
+  {
+    "CodDepartamento": 70,
+    "NomDepartamento": "SUCRE",
+    "CodMunicipio": 473,
+    "NomMunicipio": "MORROA"
+  },
+  {
+    "CodDepartamento": 70,
+    "NomDepartamento": "SUCRE",
+    "CodMunicipio": 508,
+    "NomMunicipio": "OVEJAS"
+  },
+  {
+    "CodDepartamento": 70,
+    "NomDepartamento": "SUCRE",
+    "CodMunicipio": 523,
+    "NomMunicipio": "PALMITO"
+  },
+  {
+    "CodDepartamento": 70,
+    "NomDepartamento": "SUCRE",
+    "CodMunicipio": 670,
+    "NomMunicipio": "SAMPUES"
+  },
+  {
+    "CodDepartamento": 70,
+    "NomDepartamento": "SUCRE",
+    "CodMunicipio": 678,
+    "NomMunicipio": "SAN BENITO ABAD"
+  },
+  {
+    "CodDepartamento": 70,
+    "NomDepartamento": "SUCRE",
+    "CodMunicipio": 702,
+    "NomMunicipio": "SAN JUAN DE BETULIA"
+  },
+  {
+    "CodDepartamento": 70,
+    "NomDepartamento": "SUCRE",
+    "CodMunicipio": 708,
+    "NomMunicipio": "SAN MARCOS"
+  },
+  {
+    "CodDepartamento": 70,
+    "NomDepartamento": "SUCRE",
+    "CodMunicipio": 713,
+    "NomMunicipio": "SAN ONOFRE"
+  },
+  {
+    "CodDepartamento": 70,
+    "NomDepartamento": "SUCRE",
+    "CodMunicipio": 717,
+    "NomMunicipio": "SAN PEDRO"
+  },
+  {
+    "CodDepartamento": 70,
+    "NomDepartamento": "SUCRE",
+    "CodMunicipio": 742,
+    "NomMunicipio": "SAN LUIS DE SINCE"
+  },
+  {
+    "CodDepartamento": 70,
+    "NomDepartamento": "SUCRE",
+    "CodMunicipio": 771,
+    "NomMunicipio": "SUCRE"
+  },
+  {
+    "CodDepartamento": 70,
+    "NomDepartamento": "SUCRE",
+    "CodMunicipio": 820,
+    "NomMunicipio": "SANTIAGO DE TOLU"
+  },
+  {
+    "CodDepartamento": 70,
+    "NomDepartamento": "SUCRE",
+    "CodMunicipio": 823,
+    "NomMunicipio": "TOLU VIEJO"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": "001",
+    "NomMunicipio": "IBAGUE"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": "024",
+    "NomMunicipio": "ALPUJARRA"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": "026",
+    "NomMunicipio": "ALVARADO"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": "030",
+    "NomMunicipio": "AMBALEMA"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": "043",
+    "NomMunicipio": "ANZOATEGUI"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": "055",
+    "NomMunicipio": "ARMERO"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": "067",
+    "NomMunicipio": "ATACO"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 124,
+    "NomMunicipio": "CAJAMARCA"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 148,
+    "NomMunicipio": "CARMEN DE APICALA"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 152,
+    "NomMunicipio": "CASABIANCA"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 168,
+    "NomMunicipio": "CHAPARRAL"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 200,
+    "NomMunicipio": "COELLO"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 217,
+    "NomMunicipio": "COYAIMA"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 226,
+    "NomMunicipio": "CUNDAY"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 236,
+    "NomMunicipio": "DOLORES"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 268,
+    "NomMunicipio": "ESPINAL"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 270,
+    "NomMunicipio": "FALAN"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 275,
+    "NomMunicipio": "FLANDES"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 283,
+    "NomMunicipio": "FRESNO"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 319,
+    "NomMunicipio": "GUAMO"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 347,
+    "NomMunicipio": "HERVEO"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 349,
+    "NomMunicipio": "HONDA"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 352,
+    "NomMunicipio": "ICONONZO"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 408,
+    "NomMunicipio": "LERIDA"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 411,
+    "NomMunicipio": "LIBANO"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 443,
+    "NomMunicipio": "MARIQUITA"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 449,
+    "NomMunicipio": "MELGAR"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 461,
+    "NomMunicipio": "MURILLO"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 483,
+    "NomMunicipio": "NATAGAIMA"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 504,
+    "NomMunicipio": "ORTEGA"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 520,
+    "NomMunicipio": "PALOCABILDO"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 547,
+    "NomMunicipio": "PIEDRAS"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 555,
+    "NomMunicipio": "PLANADAS"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 563,
+    "NomMunicipio": "PRADO"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 585,
+    "NomMunicipio": "PURIFICACION"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 616,
+    "NomMunicipio": "RIOBLANCO"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 622,
+    "NomMunicipio": "RONCESVALLES"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 624,
+    "NomMunicipio": "ROVIRA"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 671,
+    "NomMunicipio": "SALDAÑA"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 675,
+    "NomMunicipio": "SAN ANTONIO"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 678,
+    "NomMunicipio": "SAN LUIS"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 686,
+    "NomMunicipio": "SANTA ISABEL"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 770,
+    "NomMunicipio": "SUAREZ"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 854,
+    "NomMunicipio": "VALLE DE SAN JUAN"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 861,
+    "NomMunicipio": "VENADILLO"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 870,
+    "NomMunicipio": "VILLAHERMOSA"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA",
+    "CodMunicipio": 873,
+    "NomMunicipio": "VILLARRICA"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": "001",
+    "NomMunicipio": "CALI"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": "020",
+    "NomMunicipio": "ALCALA"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": "036",
+    "NomMunicipio": "ANDALUCIA"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": "041",
+    "NomMunicipio": "ANSERMANUEVO"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": "054",
+    "NomMunicipio": "ARGELIA"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": 100,
+    "NomMunicipio": "BOLIVAR"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": 109,
+    "NomMunicipio": "BUENAVENTURA"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": 111,
+    "NomMunicipio": "GUADALAJARA DE BUGA"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": 113,
+    "NomMunicipio": "BUGALAGRANDE"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": 122,
+    "NomMunicipio": "CAICEDONIA"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": 126,
+    "NomMunicipio": "CALIMA"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": 130,
+    "NomMunicipio": "CANDELARIA"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": 147,
+    "NomMunicipio": "CARTAGO"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": 233,
+    "NomMunicipio": "DAGUA"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": 243,
+    "NomMunicipio": "EL AGUILA"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": 246,
+    "NomMunicipio": "EL CAIRO"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": 248,
+    "NomMunicipio": "EL CERRITO"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": 250,
+    "NomMunicipio": "EL DOVIO"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": 275,
+    "NomMunicipio": "FLORIDA"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": 306,
+    "NomMunicipio": "GINEBRA"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": 318,
+    "NomMunicipio": "GUACARI"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": 364,
+    "NomMunicipio": "JAMUNDI"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": 377,
+    "NomMunicipio": "LA CUMBRE"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": 400,
+    "NomMunicipio": "LA UNION"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": 403,
+    "NomMunicipio": "LA VICTORIA"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": 497,
+    "NomMunicipio": "OBANDO"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": 520,
+    "NomMunicipio": "PALMIRA"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": 563,
+    "NomMunicipio": "PRADERA"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": 606,
+    "NomMunicipio": "RESTREPO"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": 616,
+    "NomMunicipio": "RIOFRIO"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": 622,
+    "NomMunicipio": "ROLDANILLO"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": 670,
+    "NomMunicipio": "SAN PEDRO"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": 736,
+    "NomMunicipio": "SEVILLA"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": 823,
+    "NomMunicipio": "TORO"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": 828,
+    "NomMunicipio": "TRUJILLO"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": 834,
+    "NomMunicipio": "TULUA"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": 845,
+    "NomMunicipio": "ULLOA"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": 863,
+    "NomMunicipio": "VERSALLES"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": 869,
+    "NomMunicipio": "VIJES"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": 890,
+    "NomMunicipio": "YOTOCO"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": 892,
+    "NomMunicipio": "YUMBO"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA",
+    "CodMunicipio": 895,
+    "NomMunicipio": "ZARZAL"
+  },
+  {
+    "CodDepartamento": 81,
+    "NomDepartamento": "ARAUCA",
+    "CodMunicipio": "001",
+    "NomMunicipio": "ARAUCA"
+  },
+  {
+    "CodDepartamento": 81,
+    "NomDepartamento": "ARAUCA",
+    "CodMunicipio": "065",
+    "NomMunicipio": "ARAUQUITA"
+  },
+  {
+    "CodDepartamento": 81,
+    "NomDepartamento": "ARAUCA",
+    "CodMunicipio": 220,
+    "NomMunicipio": "CRAVO NORTE"
+  },
+  {
+    "CodDepartamento": 81,
+    "NomDepartamento": "ARAUCA",
+    "CodMunicipio": 300,
+    "NomMunicipio": "FORTUL"
+  },
+  {
+    "CodDepartamento": 81,
+    "NomDepartamento": "ARAUCA",
+    "CodMunicipio": 591,
+    "NomMunicipio": "PUERTO RONDON"
+  },
+  {
+    "CodDepartamento": 81,
+    "NomDepartamento": "ARAUCA",
+    "CodMunicipio": 736,
+    "NomMunicipio": "SARAVENA"
+  },
+  {
+    "CodDepartamento": 81,
+    "NomDepartamento": "ARAUCA",
+    "CodMunicipio": 794,
+    "NomMunicipio": "TAME"
+  },
+  {
+    "CodDepartamento": 85,
+    "NomDepartamento": "CASANARE",
+    "CodMunicipio": "001",
+    "NomMunicipio": "YOPAL"
+  },
+  {
+    "CodDepartamento": 85,
+    "NomDepartamento": "CASANARE",
+    "CodMunicipio": "010",
+    "NomMunicipio": "AGUAZUL"
+  },
+  {
+    "CodDepartamento": 85,
+    "NomDepartamento": "CASANARE",
+    "CodMunicipio": "015",
+    "NomMunicipio": "CHAMEZA"
+  },
+  {
+    "CodDepartamento": 85,
+    "NomDepartamento": "CASANARE",
+    "CodMunicipio": 125,
+    "NomMunicipio": "HATO COROZAL"
+  },
+  {
+    "CodDepartamento": 85,
+    "NomDepartamento": "CASANARE",
+    "CodMunicipio": 136,
+    "NomMunicipio": "LA SALINA"
+  },
+  {
+    "CodDepartamento": 85,
+    "NomDepartamento": "CASANARE",
+    "CodMunicipio": 139,
+    "NomMunicipio": "MANI"
+  },
+  {
+    "CodDepartamento": 85,
+    "NomDepartamento": "CASANARE",
+    "CodMunicipio": 162,
+    "NomMunicipio": "MONTERREY"
+  },
+  {
+    "CodDepartamento": 85,
+    "NomDepartamento": "CASANARE",
+    "CodMunicipio": 225,
+    "NomMunicipio": "NUNCHIA"
+  },
+  {
+    "CodDepartamento": 85,
+    "NomDepartamento": "CASANARE",
+    "CodMunicipio": 230,
+    "NomMunicipio": "OROCUE"
+  },
+  {
+    "CodDepartamento": 85,
+    "NomDepartamento": "CASANARE",
+    "CodMunicipio": 250,
+    "NomMunicipio": "PAZ DE ARIPORO"
+  },
+  {
+    "CodDepartamento": 85,
+    "NomDepartamento": "CASANARE",
+    "CodMunicipio": 263,
+    "NomMunicipio": "PORE"
+  },
+  {
+    "CodDepartamento": 85,
+    "NomDepartamento": "CASANARE",
+    "CodMunicipio": 279,
+    "NomMunicipio": "RECETOR"
+  },
+  {
+    "CodDepartamento": 85,
+    "NomDepartamento": "CASANARE",
+    "CodMunicipio": 300,
+    "NomMunicipio": "SABANALARGA"
+  },
+  {
+    "CodDepartamento": 85,
+    "NomDepartamento": "CASANARE",
+    "CodMunicipio": 315,
+    "NomMunicipio": "SACAMA"
+  },
+  {
+    "CodDepartamento": 85,
+    "NomDepartamento": "CASANARE",
+    "CodMunicipio": 325,
+    "NomMunicipio": "SAN LUIS DE PALENQUE"
+  },
+  {
+    "CodDepartamento": 85,
+    "NomDepartamento": "CASANARE",
+    "CodMunicipio": 400,
+    "NomMunicipio": "TAMARA"
+  },
+  {
+    "CodDepartamento": 85,
+    "NomDepartamento": "CASANARE",
+    "CodMunicipio": 410,
+    "NomMunicipio": "TAURAMENA"
+  },
+  {
+    "CodDepartamento": 85,
+    "NomDepartamento": "CASANARE",
+    "CodMunicipio": 430,
+    "NomMunicipio": "TRINIDAD"
+  },
+  {
+    "CodDepartamento": 85,
+    "NomDepartamento": "CASANARE",
+    "CodMunicipio": 440,
+    "NomMunicipio": "VILLANUEVA"
+  },
+  {
+    "CodDepartamento": 86,
+    "NomDepartamento": "PUTUMAYO",
+    "CodMunicipio": "001",
+    "NomMunicipio": "MOCOA"
+  },
+  {
+    "CodDepartamento": 86,
+    "NomDepartamento": "PUTUMAYO",
+    "CodMunicipio": 219,
+    "NomMunicipio": "COLON"
+  },
+  {
+    "CodDepartamento": 86,
+    "NomDepartamento": "PUTUMAYO",
+    "CodMunicipio": 320,
+    "NomMunicipio": "ORITO"
+  },
+  {
+    "CodDepartamento": 86,
+    "NomDepartamento": "PUTUMAYO",
+    "CodMunicipio": 568,
+    "NomMunicipio": "PUERTO ASIS"
+  },
+  {
+    "CodDepartamento": 86,
+    "NomDepartamento": "PUTUMAYO",
+    "CodMunicipio": 569,
+    "NomMunicipio": "PUERTO CAICEDO"
+  },
+  {
+    "CodDepartamento": 86,
+    "NomDepartamento": "PUTUMAYO",
+    "CodMunicipio": 571,
+    "NomMunicipio": "PUERTO GUZMAN"
+  },
+  {
+    "CodDepartamento": 86,
+    "NomDepartamento": "PUTUMAYO",
+    "CodMunicipio": 573,
+    "NomMunicipio": "LEGUIZAMO"
+  },
+  {
+    "CodDepartamento": 86,
+    "NomDepartamento": "PUTUMAYO",
+    "CodMunicipio": 749,
+    "NomMunicipio": "SIBUNDOY"
+  },
+  {
+    "CodDepartamento": 86,
+    "NomDepartamento": "PUTUMAYO",
+    "CodMunicipio": 755,
+    "NomMunicipio": "SAN FRANCISCO"
+  },
+  {
+    "CodDepartamento": 86,
+    "NomDepartamento": "PUTUMAYO",
+    "CodMunicipio": 757,
+    "NomMunicipio": "SAN MIGUEL"
+  },
+  {
+    "CodDepartamento": 86,
+    "NomDepartamento": "PUTUMAYO",
+    "CodMunicipio": 760,
+    "NomMunicipio": "SANTIAGO"
+  },
+  {
+    "CodDepartamento": 86,
+    "NomDepartamento": "PUTUMAYO",
+    "CodMunicipio": 865,
+    "NomMunicipio": "VALLE DEL GUAMUEZ"
+  },
+  {
+    "CodDepartamento": 86,
+    "NomDepartamento": "PUTUMAYO",
+    "CodMunicipio": 885,
+    "NomMunicipio": "VILLAGARZON"
+  },
+  {
+    "CodDepartamento": 88,
+    "NomDepartamento": "SAN ANDRES",
+    "CodMunicipio": "001",
+    "NomMunicipio": "SAN ANDRES"
+  },
+  {
+    "CodDepartamento": 88,
+    "NomDepartamento": "SAN ANDRES",
+    "CodMunicipio": 564,
+    "NomMunicipio": "PROVIDENCIA"
+  },
+  {
+    "CodDepartamento": 91,
+    "NomDepartamento": "AMAZONAS",
+    "CodMunicipio": "001",
+    "NomMunicipio": "LETICIA"
+  },
+  {
+    "CodDepartamento": 91,
+    "NomDepartamento": "AMAZONAS",
+    "CodMunicipio": 263,
+    "NomMunicipio": "EL ENCANTO"
+  },
+  {
+    "CodDepartamento": 91,
+    "NomDepartamento": "AMAZONAS",
+    "CodMunicipio": 405,
+    "NomMunicipio": "LA CHORRERA"
+  },
+  {
+    "CodDepartamento": 91,
+    "NomDepartamento": "AMAZONAS",
+    "CodMunicipio": 407,
+    "NomMunicipio": "LA PEDRERA"
+  },
+  {
+    "CodDepartamento": 91,
+    "NomDepartamento": "AMAZONAS",
+    "CodMunicipio": 430,
+    "NomMunicipio": "LA VICTORIA"
+  },
+  {
+    "CodDepartamento": 91,
+    "NomDepartamento": "AMAZONAS",
+    "CodMunicipio": 460,
+    "NomMunicipio": "MIRITI - PARANA"
+  },
+  {
+    "CodDepartamento": 91,
+    "NomDepartamento": "AMAZONAS",
+    "CodMunicipio": 530,
+    "NomMunicipio": "PUERTO ALEGRIA"
+  },
+  {
+    "CodDepartamento": 91,
+    "NomDepartamento": "AMAZONAS",
+    "CodMunicipio": 536,
+    "NomMunicipio": "PUERTO ARICA"
+  },
+  {
+    "CodDepartamento": 91,
+    "NomDepartamento": "AMAZONAS",
+    "CodMunicipio": 540,
+    "NomMunicipio": "PUERTO NARIÑO"
+  },
+  {
+    "CodDepartamento": 91,
+    "NomDepartamento": "AMAZONAS",
+    "CodMunicipio": 669,
+    "NomMunicipio": "PUERTO SANTANDER"
+  },
+  {
+    "CodDepartamento": 91,
+    "NomDepartamento": "AMAZONAS",
+    "CodMunicipio": 798,
+    "NomMunicipio": "TARAPACA"
+  },
+  {
+    "CodDepartamento": 94,
+    "NomDepartamento": "GUAINIA",
+    "CodMunicipio": "001",
+    "NomMunicipio": "INIRIDA"
+  },
+  {
+    "CodDepartamento": 94,
+    "NomDepartamento": "GUAINIA",
+    "CodMunicipio": 343,
+    "NomMunicipio": "BARRANCO MINAS"
+  },
+  {
+    "CodDepartamento": 94,
+    "NomDepartamento": "GUAINIA",
+    "CodMunicipio": 663,
+    "NomMunicipio": "MAPIRIPANA"
+  },
+  {
+    "CodDepartamento": 94,
+    "NomDepartamento": "GUAINIA",
+    "CodMunicipio": 883,
+    "NomMunicipio": "SAN FELIPE"
+  },
+  {
+    "CodDepartamento": 94,
+    "NomDepartamento": "GUAINIA",
+    "CodMunicipio": 884,
+    "NomMunicipio": "PUERTO COLOMBIA"
+  },
+  {
+    "CodDepartamento": 94,
+    "NomDepartamento": "GUAINIA",
+    "CodMunicipio": 885,
+    "NomMunicipio": "LA GUADALUPE"
+  },
+  {
+    "CodDepartamento": 94,
+    "NomDepartamento": "GUAINIA",
+    "CodMunicipio": 886,
+    "NomMunicipio": "CACAHUAL"
+  },
+  {
+    "CodDepartamento": 94,
+    "NomDepartamento": "GUAINIA",
+    "CodMunicipio": 887,
+    "NomMunicipio": "PANA PANA"
+  },
+  {
+    "CodDepartamento": 94,
+    "NomDepartamento": "GUAINIA",
+    "CodMunicipio": 888,
+    "NomMunicipio": "MORICHAL"
+  },
+  {
+    "CodDepartamento": 95,
+    "NomDepartamento": "GUAVIARE",
+    "CodMunicipio": "001",
+    "NomMunicipio": "SAN JOSE DEL GUAVIARE"
+  },
+  {
+    "CodDepartamento": 95,
+    "NomDepartamento": "GUAVIARE",
+    "CodMunicipio": "015",
+    "NomMunicipio": "CALAMAR"
+  },
+  {
+    "CodDepartamento": 95,
+    "NomDepartamento": "GUAVIARE",
+    "CodMunicipio": "025",
+    "NomMunicipio": "EL RETORNO"
+  },
+  {
+    "CodDepartamento": 95,
+    "NomDepartamento": "GUAVIARE",
+    "CodMunicipio": 200,
+    "NomMunicipio": "MIRAFLORES"
+  },
+  {
+    "CodDepartamento": 97,
+    "NomDepartamento": "VAUPES",
+    "CodMunicipio": "001",
+    "NomMunicipio": "MITU"
+  },
+  {
+    "CodDepartamento": 97,
+    "NomDepartamento": "VAUPES",
+    "CodMunicipio": 161,
+    "NomMunicipio": "CARURU"
+  },
+  {
+    "CodDepartamento": 97,
+    "NomDepartamento": "VAUPES",
+    "CodMunicipio": 511,
+    "NomMunicipio": "PACOA"
+  },
+  {
+    "CodDepartamento": 97,
+    "NomDepartamento": "VAUPES",
+    "CodMunicipio": 666,
+    "NomMunicipio": "TARAIRA"
+  },
+  {
+    "CodDepartamento": 97,
+    "NomDepartamento": "VAUPES",
+    "CodMunicipio": 777,
+    "NomMunicipio": "PAPUNAUA"
+  },
+  {
+    "CodDepartamento": 97,
+    "NomDepartamento": "VAUPES",
+    "CodMunicipio": 889,
+    "NomMunicipio": "YAVARATE"
+  },
+  {
+    "CodDepartamento": 99,
+    "NomDepartamento": "VICHADA",
+    "CodMunicipio": "001",
+    "NomMunicipio": "PUERTO CARREÑO"
+  },
+  {
+    "CodDepartamento": 99,
+    "NomDepartamento": "VICHADA",
+    "CodMunicipio": 524,
+    "NomMunicipio": "LA PRIMAVERA"
+  },
+  {
+    "CodDepartamento": 99,
+    "NomDepartamento": "VICHADA",
+    "CodMunicipio": 624,
+    "NomMunicipio": "SANTA ROSALIA"
+  },
+  {
+    "CodDepartamento": 99,
+    "NomDepartamento": "VICHADA",
+    "CodMunicipio": 773,
+    "NomMunicipio": "CUMARIBO"
+  }
+]

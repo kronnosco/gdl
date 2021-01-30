@@ -1,0 +1,134 @@
+[
+  {
+    "CodDepartamento": "05",
+    "NomDepartamento": "ANTIOQUIA"
+  },
+  {
+    "CodDepartamento": "08",
+    "NomDepartamento": "ATLANTICO"
+  },
+  {
+    "CodDepartamento": 11,
+    "NomDepartamento": "BOGOTA"
+  },
+  {
+    "CodDepartamento": 13,
+    "NomDepartamento": "BOLIVAR"
+  },
+  {
+    "CodDepartamento": 15,
+    "NomDepartamento": "BOYACA"
+  },
+  {
+    "CodDepartamento": 17,
+    "NomDepartamento": "CALDAS"
+  },
+  {
+    "CodDepartamento": 18,
+    "NomDepartamento": "CAQUETA"
+  },
+  {
+    "CodDepartamento": 19,
+    "NomDepartamento": "CAUCA"
+  },
+  {
+    "CodDepartamento": 20,
+    "NomDepartamento": "CESAR"
+  },
+  {
+    "CodDepartamento": 23,
+    "NomDepartamento": "CORDOBA"
+  },
+  {
+    "CodDepartamento": 25,
+    "NomDepartamento": "CUNDINAMARCA"
+  },
+  {
+    "CodDepartamento": 27,
+    "NomDepartamento": "CHOCO"
+  },
+  {
+    "CodDepartamento": 41,
+    "NomDepartamento": "HUILA"
+  },
+  {
+    "CodDepartamento": 44,
+    "NomDepartamento": "LA GUAJIRA"
+  },
+  {
+    "CodDepartamento": 47,
+    "NomDepartamento": "MAGDALENA"
+  },
+  {
+    "CodDepartamento": 50,
+    "NomDepartamento": "META"
+  },
+  {
+    "CodDepartamento": 52,
+    "NomDepartamento": "NARIÑO"
+  },
+  {
+    "CodDepartamento": 54,
+    "NomDepartamento": "NORTE DE SANTANDER"
+  },
+  {
+    "CodDepartamento": 63,
+    "NomDepartamento": "QUINDIO"
+  },
+  {
+    "CodDepartamento": 66,
+    "NomDepartamento": "RISARALDA"
+  },
+  {
+    "CodDepartamento": 68,
+    "NomDepartamento": "SANTANDER"
+  },
+  {
+    "CodDepartamento": 70,
+    "NomDepartamento": "SUCRE"
+  },
+  {
+    "CodDepartamento": 73,
+    "NomDepartamento": "TOLIMA"
+  },
+  {
+    "CodDepartamento": 76,
+    "NomDepartamento": "VALLE DEL CAUCA"
+  },
+  {
+    "CodDepartamento": 81,
+    "NomDepartamento": "ARAUCA"
+  },
+  {
+    "CodDepartamento": 85,
+    "NomDepartamento": "CASANARE"
+  },
+  {
+    "CodDepartamento": 86,
+    "NomDepartamento": "PUTUMAYO"
+  },
+  {
+    "CodDepartamento": 88,
+    "NomDepartamento": "SAN ANDRES"
+  },
+  {
+    "CodDepartamento": 91,
+    "NomDepartamento": "AMAZONAS"
+  },
+  {
+    "CodDepartamento": 94,
+    "NomDepartamento": "GUAINIA"
+  },
+  {
+    "CodDepartamento": 95,
+    "NomDepartamento": "GUAVIARE"
+  },
+  {
+    "CodDepartamento": 97,
+    "NomDepartamento": "VAUPES"
+  },
+  {
+    "CodDepartamento": 99,
+    "NomDepartamento": "VICHADA"
+  }
+]
